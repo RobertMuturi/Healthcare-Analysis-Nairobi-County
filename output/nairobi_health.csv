@@ -1,0 +1,918 @@
+,Facility Code,Facility Name,County,Type,Owner,Location,Sub Location,Constituency,Open 24 Hours,Open Weekends,Operational Status
+1,19310, St Jude's Huruma Community Health Services,Nairobi,Medical Clinic,Private Practice - Unspecified,Huruma,Huruma,MATHARE,N,Y,Operational
+7,13043,7Kr Mrs Health Centre,Nairobi,Health Centre,Armed Forces,Mugumoini,Mugumoini,LANG'ATA,Y,Y,Operational
+10,20346,AAR Adams Health Centre,Nairobi,Medical Clinic,Private Practice - General Practitioner,Woodly,Woodly,KIBRA,N,Y,Operational
+11,12861,AAR City Centre Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Central Business District,,STAREHE,N,Y,Operational
+12,16796,AAR Clinic Sarit Centre (Westlands),Nairobi,Medical Clinic,Private Enterprise (Institution),Parklands,Upper Parklands,WESTLANDS,N,N,Operational
+14,19958,AAR Gwh Health Care Ltd,Nairobi,Health Centre,Private Enterprise (Institution),,,DAGORETTI NORTH,N,Y,Operational
+15,20405,AAR Health Care,Nairobi,Health Centre,Private Practice - Medical Specialist,Embakasi,Tassia,EMBAKASI EAST,N,Y,Operational
+17,18859,AAR Healthcare Limited (Karen),Nairobi,Medical Clinic,Private Enterprise (Institution),Lang'ata,Lang'ata,LANG'ATA,N,Y,Operational
+20,20140,AAR Mountain mall,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Roysambu,Garden,ROYSAMBU,N,Y,Operational
+22,21224,AAR Outpatient Center Donholm,Nairobi,Medical Clinic,Private Practice - General Practitioner,Upper Savanna,Donholm,EMBAKASI EAST,N,Y,Operational
+26,12865,Afwan Medical Centre,Nairobi,Nursing Home,Private Enterprise (Institution),Pumwani,Pumwani,KAMUKUNJI,Y,Y,Operational
+34,19515,Afya Bora Health Care,Nairobi,Medical Clinic,Non-Governmental Organizations,Kangemi,,WESTLANDS,Y,Y,Operational
+44,19551,Afya Bora Medical Clinic (Westlands),Nairobi,Medical Clinic,Private Enterprise (Institution),Kangemi,,WESTLANDS,N,N,Operational
+47,18486,Afya Health Care,Nairobi,Dispensary,Private Enterprise (Institution),Githurai,Githurai,ROYSAMBU,N,Y,Operational
+59,19356,Alphine Dental Centre (Kencom Hse),Nairobi,Dental Clinic,Private Practice - Unspecified,Central,Central,STAREHE,N,Y,Operational
+89,19462,Avenue Health Care (Makadara),Nairobi,Medical Clinic,Private Practice - General Practitioner,Viwandani,Viwandani,MAKADARA,N,N,Operational
+94,12874,Avenue Hospital,Nairobi,Other Hospital,Private Enterprise (Institution),Parklands,Parklands,WESTLANDS,Y,Y,Operational
+105,12881,Baraka Dispensary (Nairobi),Nairobi,Dispensary,Private Enterprise (Institution),Ruaraka,,RUARAKA,N,N,Operational
+108,19529,Baraka Medical Cenre,Nairobi,Medical Clinic,Private Practice - Medical Specialist,Kangemi,,WESTLANDS,N,Y,Operational
+135,18622,Skyhill Medical Centre,Nairobi,Health Centre,Private Practice - Medical Specialist,Kawangware,Gatina,DAGORETTI NORTH,Y,Y,Operational
+136,19639,Skylit Medical Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Eastleigh North,Eastleigh North,KAMUKUNJI,N,Y,Operational
+137,18000,Skymed Medical Clinic Githunguri,Nairobi,Medical Clinic,Private Practice - General Practitioner,Githunguri,Githunguri,KASARANI,N,Y,Operational
+141,19994,Slum Medical Clinic,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Kibera,Lindi,KIBRA,N,Y,Operational
+142,19552,Smiles Medical Centre,Nairobi,Medical Clinic,Private Enterprise (Institution),,,WESTLANDS,N,Y,Operational
+149,19393,Social Service League (Nairobi ),Nairobi,Dispensary,Private Enterprise (Institution),Central,Central,STAREHE,N,Y,Operational
+153,19331,Soin Health Care - Mfangano Street),Nairobi,Medical Clinic,Private Practice - General Practitioner,Central,Central,STAREHE,N,Y,Operational
+158,13188,Sokoni Arcade VCT,Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Kawangware,,DAGORETTI NORTH,N,N,Operational
+186,13189,SOS Dispensary,Nairobi,Dispensary,Non-Governmental Organizations,Bahati,,EMBAKASI WEST,N,N,Operational
+213,13212,St Jude's Health Centre,Nairobi,Health Centre,Private Enterprise (Institution),Kawangware,,DAGORETTI NORTH,Y,Y,Operational
+214,13211,St Jude's Medical Centre,Nairobi,Medical Clinic,Private Enterprise (Institution),Kayole,Komarock,EMBAKASI CENTRAL,Y,Y,Operational
+223,19280,St Louis Community Hospital,Nairobi,Medical Clinic,Private Practice - General Practitioner,Githurai,Githurai,ROYSAMBU,N,Y,Operational
+234,19422,Starehe Boys Centre School Clinic,Nairobi,Medical Clinic,Academic (if registered),Kariokor,Kariokor,STAREHE,Y,Y,Operational
+238,19276,Stars General Medical Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,Githurai,zimmerman,ROYSAMBU,N,Y,Operational
+239,13231,State House Clinic,Nairobi,Dispensary,Local Authority,Kilimani,,DAGORETTI NORTH,N,N,Operational
+241,13232,State House Dispensary (Nairobi),Nairobi,Dispensary,Ministry of Health,Kilimani,Kilimani,DAGORETTI NORTH,N,N,Operational
+250,18574,Strathmore University Medical Centre,Nairobi,Medical Clinic,Private Enterprise (Institution),Nairobi West,Nairobi West,LANG'ATA,N,N,Operational
+256,21085,The Aga Khan University Hospital T Mall,Nairobi,Medical Centre,Private Enterprise (Institution),,,LANG'ATA,N,Y,Operational
+257,19376,The Arcade Medical Centre,Nairobi,Medical Clinic,Private Practice - General Practitioner,Ruaraka,jangwani,RUARAKA,N,Y,Operational
+259,18304,The Co-Operative University College of Kenya Dispe,Nairobi,Dispensary,Parastatal,Lang'ata,Hardy,LANG'ATA,N,N,Operational
+264,13004,The Karen Hospital,Nairobi,Other Hospital,Private Enterprise (Institution),Karen,Karen,LANG'ATA,Y,Y,Operational
+267,19434,The Mater Embakasi Clinic,Nairobi,Medical Clinic,Kenya Episcopal Conference-Catholic Secretariat,PIpeline,Pipeline,EMBAKASI SOUTH,N,Y,Operational
+268,19543,The Mater Hospital (Westlands),Nairobi,Medical Clinic,Private Practice - General Practitioner,,,WESTLANDS,Y,Y,Operational
+269,17657,The Mater Hospital Buruburu,Nairobi,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,Makadara,Harambee,MAKADARA,N,Y,Operational
+270,13074,The Mater Hospital Mukuru,Nairobi,Other Hospital,Kenya Episcopal Conference-Catholic Secretariat,Mukuru Nyayo,Mukuru Nyayo,STAREHE,Y,Y,Operational
+273,19101,The Nairobi Hospital Out-Patient Centre Galeria,Nairobi,Medical Clinic,Private Enterprise (Institution),Lang'ata,Lang'ata,LANG'ATA,N,Y,Operational
+275,19396,Tumaini Mwangaza ( Korogocho),Nairobi,Medical Clinic,Private Practice - General Practitioner,Korogocho,Korogocho,RUARAKA,Y,Y,Operational
+309,13248,Vision Peoples Inter Health Centre,Nairobi,Health Centre,Other Faith Based,Ruaraka,,RUARAKA,N,N,Operational
+312,17687,Viva Afya Kayole,Nairobi,Medical Clinic,Private Practice - Clinical Officer,Kayole,Kayole I,EMBAKASI CENTRAL,N,Y,Operational
+314,18368,Viva Afya Medical Clinic (Matopeni),Nairobi,Medical Clinic,Private Practice - General Practitioner,Njiru,Matopeni,EMBAKASI WEST,N,N,Operational
+322,18323,Vostrum Clinic,Nairobi,Medical Clinic,Non-Governmental Organizations,Kibera,Makina,KIBRA,N,Y,Operational
+327,18344,Afya House Dispensary,Nairobi,Dispensary,Ministry of Health,Community,Community,KIBRA,N,N,Operational
+332,19621,Afya Medical Clinic (Dandora),Nairobi,Medical Clinic,Private Practice - General Practitioner,Dandora,Dandora 41,EMBAKASI NORTH,N,Y,Operational
+349,19514,Blessed Medical Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Kibra,Makina,KIBRA,N,Y,Operational
+350,21219,Bliss Health Care Limited,Nairobi,Medical Clinic,Private Practice - General Practitioner,Landmawe,Landmawe,STAREHE,N,Y,Operational
+351,21050,Blissgvs Health Care Pipeline,Nairobi,Medical Clinic,Private Practice - Clinical Officer,Pipeline,Pipeline,EMBAKASI EAST,N,Y,Operational
+354,12885,Blue House Dispensary,Nairobi,Dispensary,Non-Governmental Organizations,Eastleigh Section I,,KAMUKUNJI,N,N,Operational
+362,19561,Bodaki Health Centre,Nairobi,Medical Clinic,Private Practice - Medical Specialist,Kangemi,,WESTLANDS,N,Y,Operational
+363,18805,Bodaki Medical Clinic,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Kawangware,Gatina,DAGORETTI NORTH,Y,Y,Operational
+386,18273,Buruburu Friends Clinic,Nairobi,Medical Clinic,Non-Governmental Organizations,Embakasi,Tassia,EMBAKASI EAST,N,N,Operational
+387,12888,Buruburu Medical Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Makadara,Makadara,MAKADARA,N,N,Operational
+435,19504,Child Doctor Kenya,Nairobi,Dispensary,Private Enterprise (Institution),Woodly,Golf Course,KIBRA,N,N,Operational
+437,17951,Children Medical Clinic (Kasarani),Nairobi,Dispensary,Private Enterprise (Institution),Kasarani,Kasarani,KASARANI,N,N,Operational
+443,19589,Chiromo Medical Centre,Nairobi,Medical Clinic,Private Enterprise (Institution),Parklands,,WESTLANDS,Y,Y,Operational
+447,12909,Dagoretti Approved Dispensary,Nairobi,Dispensary,Ministry of Health,Uthiru/Ruthimitu,Kagondo,DAGORETTI SOUTH,N,N,Operational
+448,20189,Dagoretti Community Dispesary,Nairobi,Dispensary,Non-Governmental Organizations,Ngando,Ngando,DAGORETTI SOUTH,N,N,Operational
+462,19545,Damic Dental X-Ray Services,Nairobi,Dental Clinic,Private Practice - Unspecified,Central,Central,STAREHE,N,N,Operational
+465,12911,Dandora (EDARP) Clinic,Nairobi,Medical Clinic,Kenya Episcopal Conference-Catholic Secretariat, Dandora , Dandora ,EMBAKASI WEST,N,N,Operational
+466,17997,Dandora Health Service,Nairobi,Medical Clinic,Private Practice - General Practitioner,Dandora,Dandora Phase V,EMBAKASI NORTH,N,Y,Operational
+467,12913,Dandora I Health Centre,Nairobi,Health Centre,Local Authority,Dandora,Dandora,EMBAKASI NORTH,N,N,Operational
+468,12912,Dandora II Health Centre,Nairobi,Health Centre,Local Authority,Dandora,Dandora,EMBAKASI NORTH,N,N,Operational
+469,19617,Dandora Medical and Laboratory Services (Kojwang),Nairobi,Medical Clinic,Private Practice - General Practitioner,Dandora,Dandora Phase 2,EMBAKASI NORTH,N,Y,Operational
+470,18220,Dandora Medical Centre,Nairobi,Medical Clinic,Private Practice - Unspecified,Dandora,Dandora,KASARANI,N,Y,Operational
+478,19982,Dr Kingondu Clinic (Kilimani),Nairobi,Medical Clinic,Private Practice - Medical Specialist,,,DAGORETTI NORTH,N,Y,Operational
+484,19568,Dr Kishor J D Medical Centre,Nairobi,Medical Clinic,Private Practice - General Practitioner,Central,Central,STAREHE,N,N,Operational
+492,19420,Dr M S Saroya Medical Clinic (Nairobi),Nairobi,Medical Clinic,Private Practice - General Practitioner,Central,Central,STAREHE,N,N,Operational
+496,20106,Dr Maina Ruga Medical Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,City Cenre,Central,STAREHE,N,Y,Operational
+497,19419,Dr Maina Skin Clinic (Ngara),Nairobi,Medical Clinic,Private Practice - Unspecified,Ngara ,Ngara East,STAREHE,N,Y,Operational
+551,20078,Farmers choice wellness centre clinic,Nairobi,Medical Clinic,Private Practice - Unspecified,kahawa west,kahawa west,ROYSAMBU,N,Y,Operational
+572,12943,Flack Clinic,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Nairobi South,Nairobi South,MAKADARA,N,N,Operational
+574,18472,Flomed Med Clinic,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Kasarani,Kasarani,KASARANI,N,Y,Operational
+597,12947,Garrison Health Centre,Nairobi,Health Centre,Armed Forces,Embakasi,Embakasi,EMBAKASI EAST,N,N,Operational
+624,12955,Giovanna Dispensary,Nairobi,Dispensary,Private Enterprise (Institution),Roysambu,,ROYSAMBU,N,N,Operational
+626,19619,Good Neighbours Medical Clinic (Dandora),Nairobi,Medical Clinic,Non-Governmental Organizations,Dandora,Dandora 41,EMBAKASI NORTH,N,Y,Operational
+628,12959,Good Samaritan Dispensary,Nairobi,Dispensary,Private Enterprise (Institution),Kasarani,,KASARANI,N,N,Operational
+632,12960,Good Shepherd Dispensary,Nairobi,Dispensary,Private Enterprise (Institution),Mutuini,Kirigu,DAGORETTI SOUTH,N,N,Operational
+674,12969,Hono Clinic,Nairobi,Dispensary,Local Authority,Jericho- Lumumba,Lumumba,MAKADARA,N,N,Operational
+730,16802,Jonalifa Clinic,Nairobi,Medical Clinic,Non-Governmental Organizations,Kawangware,Kawangware,DAGORETTI NORTH,Y,Y,Operational
+741,20450,Josiah Community Medical Centre,Nairobi,Medical Clinic,Private Practice - Clinical Officer,Kwa Njenga,Pipeline,EMBAKASI SOUTH,Y,Y,Operational
+747,19300,Josnik Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,Githurai,Githurai,ROYSAMBU,N,Y,Operational
+783,19312,Kam ENT Services,Nairobi,Medical Clinic,Private Practice - Medical Specialist,Central,Central,STAREHE,N,Y,Operational
+784,19313,Kam Health Services,Nairobi,Medical Clinic,Private Practice - General Practitioner,Central,Central,STAREHE,N,Y,Operational
+893,18505,KEMRI Mimosa,Nairobi,Dispensary,Ministry of Health,Woodley,Woodley,KIBRA,,Y,Operational
+895,13019,Kemri VCT,Nairobi,VCT Centre (Stand-Alone),Ministry of Health,Golfcourse,,KIBRA,N,N,Operational
+896,20146,KEMRI/CDC Health Services,Nairobi,Medical Centre,Non-Governmental Organizations,Mathare,Mathare,MATHARE,N,Y,Operational
+897,18357,Kemsa Staff Clinic,Nairobi,Dispensary,Ministry of Health,Landi Mawe,Landi Mawe,STAREHE,N,N,Operational
+913,13020,Kenwa,Nairobi,Dispensary,Non-Governmental Organizations,Central Business District,,STAREHE,N,N,Operational
+980,19330,Kimathi Street Medical Centre,Nairobi,Medical Clinic,Private Practice - General Practitioner,Central,Central,STAREHE,N,N,Operational
+1094,19316,Lad Nan Hospital,Nairobi,Other Hospital,Private Enterprise (Institution),Kariokor,Pangani,STAREHE,Y,Y,Operational
+1100,20406,Lina Medical Services,Nairobi,Dispensary,Community,Embakasi,Tassia,EMBAKASI EAST,N,Y,Operational
+1102,20623,Lindi Community Clinic,Nairobi,Dispensary,Ministry of Health,Kibra,Lindi,KIBRA,N,N,Operational
+1104,21147,Lions Sightfirst Eye Hospital,Nairobi,Other Hospital,Private Enterprise (Institution),,,WESTLANDS,Y,Y,Operational
+1108,18611,Lithi Clinic,Nairobi,Medical Clinic,Private Practice - Unspecified,Kiambiu,Kiambiu,KAMUKUNJI,Y,Y,Operational
+1112,13050,Liverpool VCT,Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Kilimani,,DAGORETTI NORTH,N,N,Operational
+1127,19481,Lumumba Medical Clinic,Nairobi,Medical Clinic,Private Practice - Clinical Officer,Lumumba,Lumumba,MAKADARA,Y,Y,Operational
+1130,13053,Lunga Lunga Health Centre,Nairobi,Dispensary,Local Authority,Viwandani,Viwandani,MAKADARA,N,N,Operational
+1154,13056,Makadara Health Centre,Nairobi,Health Centre,Ministry of Health,Makadara,Makadara,MAKADARA,Y,Y,Operational
+1155,13057,Makadara Mercy Sisters Dispensary,Nairobi,Medical Clinic,Kenya Episcopal Conference-Catholic Secretariat,Makadara,Lumumba/Jericho,MAKADARA,N,Y,Operational
+1171,13058,Makina Clinic,Nairobi,Dispensary,Community,Kibera,Makina,KIBRA,Y,Y,Operational
+1207,18985,Maranatha Medical Services,Nairobi,Medical Clinic,Private Practice - General Practitioner,Kibra,Lindi,KIBRA,N,Y,Operational
+1217,13061,Maria Dominica Dispensary,Nairobi,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,Karen,Karen,LANG'ATA,N,N,Operational
+1218,13062,Maria Immaculate Health Centre,Nairobi,Health Centre,Kenya Episcopal Conference-Catholic Secretariat,Lavington,,DAGORETTI NORTH,Y,Y,Operational
+1219,13063,Maria Maternity and Nursing Home,Nairobi,Maternity Home,Private Practice - General Practitioner,Kayole,Kayole,EMBAKASI CENTRAL,N,N,Operational
+1220,20276,Maria Medical Clinic And Diadetic centre(Saika) ,Nairobi,Medical Clinic,Private Practice - General Practitioner,Njiru,Saika,KASARANI,N,Y,Operational
+1226,13064,Mariakani Cottage Hospital Ltd,Nairobi,Nursing Home,Private Enterprise (Institution),Nairobi South,Nairobi South,STAREHE,Y,Y,Operational
+1228,19432,Mariakani Cottage Hospital Utawala Clinic,Nairobi,Medical Clinic,Private Practice - Medical Specialist,Utawala,Utawala,EMBAKASI EAST,Y,Y,Operational
+1236,16166,Marie Stopes Clinic (Dagoretti),Nairobi,Dispensary,Non-Governmental Organizations,Golfcourse,,KIBRA,N,N,Operational
+1238,13065,Marie Stopes Clinic (Kencom),Nairobi,Dispensary,Non-Governmental Organizations,Central Business District,,STAREHE,N,N,Operational
+1239,13067,Marie Stopes Clinic (Kilimani),Nairobi,Dispensary,Non-Governmental Organizations,Kilimani,,DAGORETTI NORTH,N,N,Operational
+1243,16167,Marie Stopes Clinic (Langata),Nairobi,Medical Clinic,Non-Governmental Organizations,Makina,,KIBRA,N,N,Operational
+1246,13066,Marie Stopes Clinic (Pangani),Nairobi,Medical Clinic,Non-Governmental Organizations,Pangani,Pangani,STAREHE,N,Y,Operational
+1256,13068,Marie Stopes Nursing Home (Eastleigh),Nairobi,Nursing Home,Non-Governmental Organizations,Eastleigh Section I,,KAMUKUNJI,Y,Y,Operational
+1270,13069,Maringo Clinic,Nairobi,Dispensary,Local Authority,Maringo,Maringo,MAKADARA,N,N,Operational
+1273,20089,Marist International University College Medical Clinic,Nairobi,Medical Clinic,Kenya Episcopal Conference-Catholic Secretariat,Langata,Langata,LANG'ATA,N,N,Operational
+1360,16798,Mawamu Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Kangemi,Kangemi,WESTLANDS,N,N,Operational
+1368,19403,Max Family Health Care,Nairobi,Medical Clinic,Private Practice - General Practitioner,Githurai,Githurai,ROYSAMBU,N,Y,Operational
+1379,13070,Marura Nursing Home,Nairobi,Nursing Home,Private Enterprise (Institution),Ruaraka,utalii,RUARAKA,Y,Y,Operational
+1382,13071,Marurui Dispensary,Nairobi,Dispensary,Private Enterprise (Institution),Githurai,,ROYSAMBU,N,N,Operational
+1388,12982,Mary Immaculate Clinic Mukuru,Nairobi,Medical Clinic,Other Faith Based,Mukuru Nyayo,Nairobi South,STAREHE,N,N,Operational
+1393,13072,Mary Immaculate Sisters Dispensary,Nairobi,Dispensary,Other Faith Based,Bahati,,MAKADARA,N,Y,Operational
+1394,17514,Mary Mission,Nairobi,Health Centre,Private Enterprise (Institution),Wanyee Road,,DAGORETTI SOUTH,Y,Y,Operational
+1438,13075,Mathare 3A (EDARP),Nairobi,VCT Centre (Stand-Alone),Kenya Episcopal Conference-Catholic Secretariat,Mathare,,MATHARE,N,N,Operational
+1439,13077,Mathare North Health Centre,Nairobi,Health Centre,Local Authority,Ruaraka,Mathare North sub location,RUARAKA,N,N,Operational
+1440,13078,Mathare Police Depot,Nairobi,Dispensary,Ministry of Health,Mathare,,MATHARE,N,N,Operational
+1441,13076,Mathari Hospital,Nairobi,District Hospital,Ministry of Health,Mathare,,MATHARE,Y,Y,Operational
+1495,17947,Loreigns Medical Services (Kasarani),Nairobi,Medical Clinic,Private Practice - Unspecified,Kasarani,Kasarani,KASARANI,Y,Y,Operational
+1514,13052,Lower Kabete Dispensary (Kabete),Nairobi,Dispensary,Local Authority,L/Kabete,L/Kabete,WESTLANDS,N,N,Operational
+1590,19600,Madaktari Health Clinic (Njiru),Nairobi,Medical Clinic,Private Practice - Unspecified,Njiru,Njiru,KASARANI,N,Y,Operational
+1596,13055,Madina Nursing Home,Nairobi,Dispensary,Private Enterprise (Institution),Eastleigh North,Eastleigh North,KAMUKUNJI,Y,Y,Operational
+1603,19473,Maendereo Medical Clinic,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Makadara,Hamza,MAKADARA,Y,Y,Operational
+1606,19512,Mafra Clinic,Nairobi,Medical Clinic,Non-Governmental Organizations,,,WESTLANDS,Y,Y,Operational
+1642,19554,Maichoma Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,,,WESTLANDS,Y,Y,Operational
+1660,19308,Maisha House VCT (Noset),Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Ramesh Gautama Road,Ngara,STAREHE,,,Operational
+1661,19542,Maisha Poa Dispensary,Nairobi,Medical Clinic,Private Practice - General Practitioner,Riruta,Riruta,DAGORETTI NORTH,N,Y,Operational
+1696,20624,Makina Community Clinic,Nairobi,Dispensary,Ministry of Health,Kibera,Makina,KIBRA,N,N,Operational
+1702,13059,Makkah Nursing Home,Nairobi,Nursing Home,Private Enterprise (Institution),Eastleigh Section I,,KAMUKUNJI,N,N,Operational
+1754,18895,Korogocho Health Centre,Nairobi,Health Centre,Ministry of Health,KOROGOCHO,KOROGOCHO,ROYSAMBU,N,N,Operational
+1779,20340,KTTID Dispensary,Nairobi,Dispensary,Ministry of Health,Karen,Karen,LANG'ATA,N,N,Operational
+1843,13038,Komarock Medical Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Kayole,Embakasi,EMBAKASI CENTRAL,N,N,Operational
+1844,17717,Komarock Morden Medical Care,Nairobi,Health Centre,Private Practice - General Practitioner,Kayole,Komarock,EMBAKASI CENTRAL,Y,Y,Operational
+1873,19372,Kwetu Medical Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,kasarani,kasarani,KASARANI,N,Y,Operational
+1877,18827,Kwosp (Korogocho),Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Kariobangi,Kariobangi,KASARANI,N,N,Operational
+1925,17411,Mama Lucy Kibaki Hospital - Embakasi,Nairobi,District Hospital,Ministry of Health,Umoja,Komarock,EMBAKASI WEST,Y,Y,Operational
+1929,16169,Lady Northey Dispensary,Nairobi,Dental Clinic,Local Authority,Kilimani,,DAGORETTI NORTH,N,N,Operational
+1934,13039,Lagos Road Dispensary,Nairobi,Dispensary,Local Authority,Central Business District,,STAREHE,N,N,Operational
+1939,19993,Laini Saba Health Services,Nairobi,Medical Clinic,Private Practice - General Practitioner,Laini Saba,Laini Saba,KIBRA,Y,Y,Operational
+1942,18991,Lakeside Medical,Nairobi,Medical Clinic,Private Practice - Clinical Officer,Sarang'ombe,Gatwekera,LANG'ATA,N,Y,Operational
+1957,13040,Landmawe Medical Services,Nairobi,Medical Clinic,Private Enterprise (Institution),Makogeni,Makogeni,MAKADARA,Y,Y,Operational
+1964,17384,Lang'ata Comprehensive Medical Service,Nairobi,Medical Clinic,Private Practice - Medical Specialist,Mugumoini,Mugumoini,LANG'ATA,N,N,Operational
+1967,13041,Langata Health Centre,Nairobi,Health Centre,Local Authority,Mugumoini,Mugumoini,LANG'ATA,N,N,Operational
+1968,13042,Langata Hospital,Nairobi,Other Hospital,Private Enterprise (Institution),Mugumoini,Mugumoini,LANG'ATA,Y,Y,Operational
+1969,13044,Langata Women Prison Dispensary,Nairobi,Dispensary,Ministry of Health,Mugumoini,Mugumoini,LANG'ATA,N,Y,Operational
+1978,19503,Latema Medical Services (Nairobi),Nairobi,Medical Clinic,Private Practice - Unspecified,Central,Central,STAREHE,N,N,Operational
+1981,13045,Lea Toto,Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Kariobangi,,KASARANI,N,N,Operational
+1982,16800,Lea Toto Clinic (Westlands),Nairobi,Medical Clinic,Non-Governmental Organizations,Kangemi,Mountain View,WESTLANDS,N,N,Operational
+1983,13047,Lea Toto Clinic Kariobangi South,Nairobi,Medical Clinic,Non-Governmental Organizations,Kariobangi South,Servant Quarter,KASARANI,N,N,Operational
+1984,17720,Lea Toto Community Mukuru Reuben,Nairobi,Dispensary,Other Faith Based,Mukuru,Imara Daima,EMBAKASI SOUTH,N,N,Operational
+1985,13046,Lea Toto Dagoretti,Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Satelite,,DAGORETTI SOUTH,N,N,Operational
+1986,19914,Lea Toto Kawangware,Nairobi,Medical Clinic,Non-Governmental Organizations,Kawangware,Kawangware,DAGORETTI SOUTH,N,N,Operational
+1987,13048,Lea Toto Kibera,Nairobi,Medical Clinic,Non-Governmental Organizations,Sarang'Ombe,,KIBRA,N,N,Operational
+1988,18828,Lea Toto Mwiki,Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Githurai,Zimmerman,ROYSAMBU,N,N,Operational
+2014,18590,Lengo Medical Clinic,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Mukuru Nyayo,Hazina,STAREHE,N,Y,Operational
+2037,13049,Lianas Clinic Health Centre,Nairobi,Medical Clinic,Private Enterprise (Institution),Kangemi,,WESTLANDS,Y,Y,Operational
+2067,19374,Manasco Medical Centre (Roysambu),Nairobi,Medical Clinic,Private Practice - General Practitioner,Roysambu,Roysambu,ROYSAMBU,N,Y,Operational
+2132,19436,Kings Cross Medical Clinic,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Kayole,Kayole,EMBAKASI CENTRAL,Y,Y,Operational
+2138,19625,Kinmed Medical Clinic (Dandora),Nairobi,Medical Clinic,Private Practice - General Practitioner,Dandora,Dandora 41,KASARANI,N,Y,Operational
+2284,13035,Kisembo Dispensary,Nairobi,Dispensary,Private Enterprise (Institution),Makina,Lindi,KIBRA,N,N,Operational
+2339,19508,Local Aid Organization,Nairobi,Dispensary,Private Enterprise (Institution),Riruta,Ngando,DAGORETTI NORTH,N,N,Operational
+2346,13051,Loco Dispensary,Nairobi,Dispensary,Other Public Institution,Makongeni,Makongeni,STAREHE,N,N,Operational
+2407,13036,Kivuli Dispensary,Nairobi,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,Riruta,,DAGORETTI SOUTH,N,N,Operational
+2414,13013,Kenya AIDS Vaccine Initiative (KAVI),Nairobi,Health Project,Academic (if registered),Kangemi,,WESTLANDS,N,N,Operational
+2415,18261,Kenya Airports Employees Association,Nairobi,Medical Clinic,Company Medical Service,Embakasi,Embakasi Village,EMBAKASI EAST,N,N,Operational
+2416,13021,Kenya Airways Medical Centre,Nairobi,Medical Clinic,Private Practice - Unspecified,City Square,,STAREHE,N,Y,Operational
+2419,18385,Kenya Association of Pofessional Counsellors (Kapc,Nairobi,Training Institution in Health (Stand-alone),Non-Governmental Organizations,Parlands,Parlkands,WESTLANDS,N,Y,Operational
+2422,20303,Kenya Institute of Special Education Dispensary,Nairobi,Dispensary,Academic (if registered),Kasarani,Kasarani,KASARANI,N,Y,Operational
+2429,20371,Kenya Police Staff College Clinic,Nairobi,Dispensary,Academic (if registered),Girigiri,loresho,WESTLANDS,Y,Y,Operational
+2431,13022,Kenya Utalii Dispensary,Nairobi,Dispensary,Private Enterprise (Institution),Kasarani,,RUARAKA,N,N,Operational
+2435,13023,Kenyatta National Hospital,Nairobi,National Referral Hospital,Ministry of Health,Golfcourse,,KIBRA,Y,Y,Operational
+2438,13024,Kenyatta University Dispensary,Nairobi,Dispensary,Other Public Institution,Githurai,,ROYSAMBU,N,N,Operational
+2490,12863,AAR Thika Road Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Kasarani,,ROYSAMBU,N,N,Operational
+2493,12864,Abandoned Child Care,Nairobi,Dispensary,Non-Governmental Organizations,Uthiru/Ruthimitu,,DAGORETTI SOUTH,N,N,Operational
+2495,19484,Abby Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),,,WESTLANDS,Y,Y,Operational
+2498,19354,Abdallah Dental Clinic (Barclays Plaza-Nairobi),Nairobi,Dental Clinic,Private Practice - Unspecified,Central,Central,STAREHE,N,N,Operational
+2507,19441,Abra Health Services,Nairobi,Medical Clinic,Private Practice - Unspecified,Savannah,Savannah,EMBAKASI WEST,N,Y,Operational
+2508,19562,Abraham Memorial Nursing Home (Westlands),Nairobi,Maternity Home,Private Enterprise (Institution),Kangemi,kangemi,WESTLANDS,Y,Y,Operational
+2512,19980,Acacia Clinic (Kilimani),Nairobi,Medical Clinic,Private Practice - General Practitioner,,,DAGORETTI NORTH,N,Y,Operational
+2513,19413,Acacia Medical Centre (Nairobi),Nairobi,Medical Clinic,Private Practice - General Practitioner,Central,Central,STAREHE,N,Y,Operational
+2516,19467,Access Afya,Nairobi,Medical Clinic,Private Practice - General Practitioner,Mukuru Nyayo,Mukuru Nyayo,STAREHE,N,Y,Operational
+2517,21158,Access Afya Medical Centre Viwandani,Nairobi,Medical Clinic,Private Practice - Medical Specialist,Viwandani,Lunga lunga,MAKADARA,N,Y,Operational
+2544,20360,Maximum medical centre,Nairobi,Medical Clinic,Private Practice - Unspecified,kasarani,maji mazuri,KASARANI,N,Y,Operational
+2549,13079,Mayflower Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Mukuru,Kwa Njenga,EMBAKASI SOUTH,N,N,Operational
+2550,21271,Maylaurels Medical Centre,Nairobi,Medical Clinic,Private Practice - Clinical Officer,Embakasi,Utawala,EMBAKASI EAST,Y,Y,Operational
+2563,13080,Mbagathi District Hospital,Nairobi,District Hospital,Ministry of Health,Golfcourse,,KIBRA,Y,Y,Operational
+2604,13081,Mbotela Clinic,Nairobi,Medical Clinic,Local Authority,Maringo,Mbotela,MAKADARA,N,N,Operational
+2629,19482,Medanta Africare,Nairobi,Medical Centre,Private Practice - General Practitioner,Parklands,,WESTLANDS,N,Y,Operational
+2630,20573,Medanta AfriCare krishna Park,Nairobi,Laboratory (Stand-alone),Private Practice - Medical Specialist,Parklands,Ist Avenue,WESTLANDS,N,Y,Operational
+2631,19505,Medanta Africare Medical Centre,Nairobi,Medical Centre,Private Enterprise (Institution),Westlands,,WESTLANDS,N,Y,Operational
+2632,20451,Medecins Du Monde/France (Kangemi Kang'ora),Nairobi,Health Programme,Humanitarian Agencies,Kang'ora,Kang'ora,WESTLANDS,N,N,Operational
+2634,19099,Medical and Dental Clinic,Nairobi,Medical Clinic,Private Practice - Medical Specialist,Karen,Karen,LANG'ATA,N,Y,Operational
+2636,19496,Medical Clinic,Nairobi,Medical Clinic,Private Practice - Clinical Officer,Kangemi,,WESTLANDS,N,Y,Operational
+2639,13082,Medical Reception Dispensary,Nairobi,Dispensary,Private Enterprise (Institution),Roysambu,,ROYSAMBU,N,N,Operational
+2643,13083,Medicare Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Central Business District,,STAREHE,N,N,Operational
+2649,19525,Medimark Health Care,Nairobi,Medical Clinic,Private Practice - General Practitioner,Parklands,,WESTLANDS,N,Y,Operational
+2654,19519,Medisafe Medical Labaratoty,Nairobi,Laboratory (Stand-alone),Private Practice - General Practitioner,Central,Central,STAREHE,N,N,Operational
+2660,13085,Med-Point Dispensary,Nairobi,Dispensary,Private Enterprise (Institution),Kahawa,,KASARANI,N,N,Operational
+2666,13086,Melchezedek Hospital,Nairobi,Other Hospital,Private Enterprise (Institution),Kawangware,,DAGORETTI NORTH,Y,Y,Operational
+2667,20072,Melchizedek Hospital Karen,Nairobi,Medical Clinic,Private Enterprise (Institution),Karen,Karen,LANG'ATA,N,Y,Operational
+2674,13087,Memorial Hospital,Nairobi,Other Hospital,Armed Forces,Golfcourse,,KIBRA,N,N,Operational
+2676,19959,Menelik Chest Clinic,Nairobi,Medical Clinic,Private Practice - Medical Specialist,,KILIMANI,DAGORETTI NORTH,N,Y,Operational
+2685,13088,Mercillin Afya Centre,Nairobi,Maternity Home,Community,Kibra,Lindi,KIBRA,Y,Y,Operational
+2700,19319,Mercy Medical Services,Nairobi,Medical Clinic,Private Practice - General Practitioner,Central,Central,STAREHE,N,N,Operational
+2701,13089,Mercy Mission Health Centre,Nairobi,Health Centre,Other Faith Based,Kawangware,,DAGORETTI NORTH,Y,Y,Operational
+2709,13109,Meridian Equator Hospital,Nairobi,Other Hospital,Private Enterprise (Institution),Nairobi West,Nairobi West,LANG'ATA,Y,Y,Operational
+2712,19546,Meridian Medical Centre,Nairobi,Medical Clinic,Private Practice - General Practitioner,,Kilimani,DAGORETTI NORTH,N,Y,Operational
+2713,13084,Meridian Medical Centre (Buruburu),Nairobi,Medical Clinic,Private Enterprise (Institution),Makadara,Uhuru,MAKADARA,N,Y,Operational
+2714,18591,Meridian Medical Centre (Capital Centre),Nairobi,Medical Clinic,Private Practice - General Practitioner,Mukuru Nyayo,South B,STAREHE,N,Y,Operational
+2715,19395,Meridian Medical Centre (Loita Street),Nairobi,Medical Clinic,Private Practice - General Practitioner,Central,Central,STAREHE,N,N,Operational
+2718,19550,Meridian Medical Centre (Penson Towers),Nairobi,Medical Clinic,Private Practice - General Practitioner,Central,Central,STAREHE,N,Y,Operational
+2724,20104,Meridian Medical centre(Nation Centre Bldg ),Nairobi,Medical Centre,Private Practice - General Practitioner,City Centre,Central,STAREHE,N,Y,Operational
+2726,17727,Meridian Medical Donholm Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,Umoja,Donholm,EMBAKASI WEST,Y,Y,Operational
+2765,19463,Metropolitan Dr Plaza,Nairobi,Medical Clinic,Private Practice - General Practitioner,Harambee,Harambee,MAKADARA,N,N,Operational
+2766,13090,Metropolitan Hospital Nairobi,Nairobi,Other Hospital,Private Enterprise (Institution),Makadara,Harambee,MAKADARA,Y,Y,Operational
+2784,20583,Microbiology Reference Lab,Nairobi,Laboratory (Stand-alone),Ministry of Health,,,KIBRA,N,N,Operational
+2785,13091,Mid Hill Medical Clinic,Nairobi,Health Centre,Private Enterprise (Institution),Kawangware,,DAGORETTI NORTH,Y,Y,Operational
+2792,19633,Mid-Point Health Services,Nairobi,Medical Clinic,Private Practice - General Practitioner,Roysambu,Roysambu,ROYSAMBU,N,Y,Operational
+2828,20018,Milele Integrated Medical Services,Nairobi,Medical Clinic,Private Practice - General Practitioner,Githurai,Githurai,ROYSAMBU,Y,Y,Operational
+2831,20537,Miliki Afya Limited,Nairobi,Medical Clinic,Private Practice - General Practitioner,Riruta,,DAGORETTI SOUTH,N,Y,Operational
+2837,19478,Millenium Dental Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,Makadara,Harambee,MAKADARA,N,Y,Operational
+2842,13092,Ministry of Education (Moest) VCT Centre,Nairobi,VCT Centre (Stand-Alone),Other Public Institution,Central Business District,,STAREHE,N,N,Operational
+2903,13093,Mji Wa Huruma Dispensary,Nairobi,Dispensary,Local Authority,Runda,,WESTLANDS,N,N,Operational
+2909,13094,Mkunga Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Dandora,Dandora,KASARANI,N,N,Operational
+2957,13095,Moi Air Base Hospital,Nairobi,Other Hospital,Ministry of Health,Eastleigh Section I,,KAMUKUNJI,N,N,Operational
+3023,13096,Mother & Child Hospital,Nairobi,Dispensary,Private Enterprise (Institution),Eastleigh Section 111,,KAMUKUNJI,Y,Y,Operational
+3024,19277,Mother & Child Meridian & Lab Services,Nairobi,Medical Clinic,Private Practice - General Practitioner,Githurai,Githurai,ROYSAMBU,N,Y,Operational
+3028,17724,Mother Ippolata Mukuru Clinic,Nairobi,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,Mukuru,Imara Daima,EMBAKASI SOUTH,N,N,Operational
+3043,13097,Mow Dispensary,Nairobi,Dispensary,Other Public Institution,Viwandani,Landi Mawe,STAREHE,N,N,Operational
+3050,13098,Mp Shah Hospital (Westlands),Nairobi,Other Hospital,Private Enterprise (Institution),Parklands,,WESTLANDS,Y,Y,Operational
+3071,20049,Msf- Green House Clinic,Nairobi,Medical Clinic,Non-Governmental Organizations,Eastleigh,,KAMUKUNJI,N,Y,Operational
+3072,20050,Msf- Lavender House Clinic,Nairobi,Medical Clinic,Non-Governmental Organizations,Eastleigh,,KAMUKUNJI,,,Operational
+3073,17651,Msf Olympic Centre,Nairobi,Medical Clinic,Non-Governmental Organizations,Sarang'ombe,,KIBRA,N,Y,Operational
+3101,17455,Mtaani VCT,Nairobi,VCT Centre (Stand-Alone),Community,Laini saba,Soweto Highrise,KIBRA,N,Y,Operational
+3125,13025,Kesha VCT,Nairobi,VCT Centre (Stand-Alone),Private Enterprise (Institution),Kawangware,,DAGORETTI NORTH,N,N,Operational
+3196,13037,Kmtc Dispensary,Nairobi,VCT Centre (Stand-Alone),Ministry of Health,Golfcourse,,KIBRA,N,N,Operational
+3213,20621,Kianda 42 Community Clinic,Nairobi,Dispensary,Ministry of Health,Sarang'ombe,Kianda,KIBRA,N,N,Operational
+3271,20325,Kibera CFW Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Sarang'ombe,Olympic,KIBRA,N,N,Operational
+3272,12894,Kibera Chemi Chemi Ya Uzima Clinic,Nairobi,Dispensary,Christian Health Association of Kenya,Kibera,Makina,KIBRA,N,Y,Operational
+3273,13028,Kibera Community Health Centre - Amref,Nairobi,Health Centre,Non-Governmental Organizations,Laini Saba,Laini Saba,KIBRA,N,Y,Operational
+3275,13029,Kibera D O Dispensary,Nairobi,Dispensary,Ministry of Health,Kibera,Makina,KIBRA,N,N,Operational
+3276,18984,Kibera Highway Clinic,Nairobi,Medical Clinic,Private Practice - Clinical Officer,Lindi,Lindi,KIBRA,N,Y,Operational
+3277,13026,Kibera Human Development Clinic,Nairobi,Medical Clinic,Non-Governmental Organizations,Kibera,Makina,KIBRA,N,N,Operational
+3278,13030,Kibera South (Msf Belgium) Health Centre,Nairobi,Health Centre,Non-Governmental Organizations,Kibera,Lindi,KIBRA,N,N,Operational
+3279,21083,Kibera Ubuntu Afya Medical Centre,Nairobi,Medical Centre,Private Practice - General Practitioner,,,KIBRA,N,,Operational
+3328,13031,Kie/Kapc,Nairobi,VCT Centre (Stand-Alone),Other Public Institution,Central Business District,,STAREHE,N,N,Operational
+3394,13033,Kikoshep Kenya (Mugumoini),Nairobi,Medical Clinic,Non-Governmental Organizations,Mugumoini,Mugumoini,LANG'ATA,N,N,Operational
+3412,13002,Kapu Medical Clinic,Nairobi,VCT Centre (Stand-Alone),Ministry of Health,Embakasi,Utawala,EMBAKASI EAST,N,N,Operational
+3515,20625,Karanja Road Community Clinic,Nairobi,Dispensary,Ministry of Health,Kibera,Makina,KIBRA,N,N,Operational
+3535,13003,Karen Health Centre,Nairobi,Dispensary,Local Authority,Karen,Karen,LANG'ATA,N,N,Operational
+3539,19100,Karengata Community Medical Centre,Nairobi,Medical Clinic,Private Practice - Clinical Officer,Lang'ata,Lang'ata,LANG'ATA,N,N,Operational
+3547,13005,Kari Health Clinic,Nairobi,Medical Clinic,Ministry of Health,Kitusuru,,WESTLANDS,N,N,Operational
+3565,18743,Kariobangi EDARP,Nairobi,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,Kariobangi,Kariobangi,KASARANI,N,Y,Operational
+3566,13006,Kariobangi Health Centre,Nairobi,Dispensary,Local Authority,Kariobangi,,KASARANI,N,N,Operational
+3567,17434,Kariobangi South Clinic,Nairobi,Medical Clinic,Local Authority,Kariobangi South,Kariobangi South,EMBAKASI WEST,N,N,Operational
+3568,13007,Kariokor Clinic,Nairobi,Dispensary,Local Authority,Kariokor,Ziwani,STAREHE,N,N,Operational
+3573,13008,Karma Dispensary,Nairobi,Dispensary,Private Enterprise (Institution),Ruaraka,,KASARANI,N,N,Operational
+3574,17995,Karomo Medical Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Kariobangi South,Light Industries,KASARANI,N,N,Operational
+3585,13009,Karura Health Centre (Kiambu Rd),Nairobi,Health Centre,Local Authority,Muthaiga,,WESTLANDS,N,N,Operational
+3597,17948,Kasarani Claycity Medical Centre (Kasarani),Nairobi,Dispensary,Private Practice - Unspecified,Kasarani,Kasarani,KASARANI,Y,Y,Operational
+3599,13010,Kasarani Health Centre,Nairobi,Dispensary,Local Authority,Kariobangi,Kasarani,KASARANI,N,N,Operational
+3600,13011,Kasarani Maternity,Nairobi,Maternity Home,Private Practice - Nurse / Midwife,Kasarani,,KASARANI,Y,Y,Operational
+3603,13012,Kasarani Medical Health Centre,Nairobi,Health Centre,Private Enterprise (Institution),Kasarani,near hunters,KASARANI,N,N,Operational
+3631,13034,Kilimanjaro Nursing Home,Nairobi,Nursing Home,Private Enterprise (Institution),Eastleigh Section I,,KAMUKUNJI,N,N,Operational
+3738,19513,Kawangware Health Centre,Nairobi,Dispensary,Private Enterprise (Institution),Kawagware,kawagware,DAGORETTI NORTH,N,N,Operational
+3765,12996,Kahawa Garrison Health Centre,Nairobi,Health Centre,Ministry of Health,Kasarani,,ROYSAMBU,N,N,Operational
+3767,12997,Kahawa West Health Centre,Nairobi,Health Centre,Local Authority,kahawa,kongo soweto,ROYSAMBU,N,N,Operational
+3821,19541,Kaka Medical Centre (Race Course Rd),Nairobi,Medical Clinic,Private Practice - General Practitioner,Central,Central,STAREHE,N,N,Operational
+3891,12998,Kaloleni Dispensary,Nairobi,Dispensary,Local Authority,Makogeni,Kaloleni,MAKADARA,N,N,Operational
+3892,12999,Kaloleni Health Servics,Nairobi,Medical Clinic,Private Enterprise (Institution),Makogeni,Kaloleni,MAKADARA,Y,Y,Operational
+3904,13014,Kayole Hospital,Nairobi,Other Hospital,Private Enterprise (Institution),Kayole,Kayole,EMBAKASI CENTRAL,Y,Y,Operational
+3905,13015,Kayole I Health Centre,Nairobi,Health Centre,Local Authority,Kayole,Kayole,EMBAKASI CENTRAL,N,N,Operational
+3906,13016,Kayole II Sub-District Hospital,Nairobi,Health Centre,Local Authority,Kayole,Kayole,EMBAKASI CENTRAL,Y,Y,Operational
+3964,19488,Kamili Organization,Nairobi,Medical Clinic,Non-Governmental Organizations,Kitisuru,,WESTLANDS,Y,N,Operational
+3967,18942,Kamiti Maximum Clinic,Nairobi,Medical Clinic,Ministry of Health,Kahawa,Kahawa,ROYSAMBU,N,Y,Operational
+3968,13000,Kamiti Prison Hospital,Nairobi,Other Hospital,Ministry of Health,Ruaraka,,ROYSAMBU,N,N,Operational
+4018,19369,Kamwitha Medcal Centre,Nairobi,Medical Clinic,Private Practice - General Practitioner,Githurai,Zimmerman,ROYSAMBU,N,Y,Operational
+4049,19536,Kangemi Gichagi Dispensary,Nairobi,Dispensary,Private Practice - Clinical Officer,Kangemi,,WESTLANDS,Y,Y,Operational
+4050,13001,Kangemi Health Centre,Nairobi,Health Centre,Local Authority,Kangemi,Kangemi,WESTLANDS,N,N,Operational
+4100,20095,Kipawa Medical Centre,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Ruai,Ruai,KASARANI,N,Y,Operational
+4133,18488,Jacaranda Special School,Nairobi,Training Institution in Health (Stand-alone),Other Public Institution,kileleshwa,,DAGORETTI NORTH,N,N,Operational
+4142,12983,Imperial Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Ngara,,STAREHE,N,N,Operational
+4146,19333,Index Medical Services,Nairobi,Medical Clinic,Private Practice - General Practitioner,Githurai,zimmerman,MATHARE,N,Y,Operational
+4152,19458,Innercore Medical Clinic,Nairobi,Medical Clinic,Private Practice - Unspecified,Umoja,Umoja One,EMBAKASI WEST,N,Y,Operational
+4154,18002,Innoculation Centre,Nairobi,Dispensary,Local Authority,Central Business District,,STAREHE,N,N,Operational
+4164,20158,IOM International Organization for migration(girigiri),Nairobi,Health Programme,Humanitarian Agencies,Girigiri,Girigiri,WESTLANDS,,,Operational
+4165,19471,Iom Wellness Clinic,Nairobi,Medical Clinic,Non-Governmental Organizations,Eastleigh North,Eastleigh,KAMUKUNJI,N,N,Operational
+4173,20227,Iran Medical Clinic,Nairobi,Dispensary,Non-Governmental Organizations,Woodley,Adams,KIBRA,N,N,Operational
+4174,19421,Iran Medical Clinic (Ngara),Nairobi,Medical Clinic,Private Practice - Unspecified,Ngara ,Ngara West,STAREHE,N,N,Operational
+4216,21223,Jalaram Medical Services,Nairobi,Medical Clinic,Other Faith Based,,,WESTLANDS,,Y,Operational
+4220,12984,Jamaa Mission Hospital,Nairobi,Other Hospital,Kenya Episcopal Conference-Catholic Secretariat,Makadara,Harambee,MAKADARA,Y,Y,Operational
+4233,12985,Jamii Clinic (Westlands),Nairobi,Medical Clinic,Private Enterprise (Institution),Kikuyu,,WESTLANDS,N,N,Operational
+4251,19446,Jamii Medical Clinic Mukuru,Nairobi,Medical Clinic,Private Practice - Unspecified,,Mukuru,EMBAKASI SOUTH,Y,Y,Operational
+4253,12986,Jamii Medical Hospital,Nairobi,Other Hospital,Private Enterprise (Institution),Githurai,,ROYSAMBU,N,N,Operational
+4255,19433,Jamii Yadah Medical Centre,Nairobi,Health Centre,Private Practice - General Practitioner,Utawala,Utawala,EMBAKASI EAST,N,Y,Operational
+4269,20064,Jeffrey Medical & Diagnostic Centre,Nairobi,Dispensary,Private Practice - General Practitioner,Kawangware,Kawangware,DAGORETTI NORTH,N,Y,Operational
+4276,19490,Jellin Medical Clinic,Nairobi,Dispensary,Private Practice - Nurse / Midwife,Kawagware,,DAGORETTI NORTH,N,Y,Operational
+4283,12988,Jericho Health Centre,Nairobi,Dispensary,Local Authority,Jericho-Lumumba,Jericho,MAKADARA,Y,Y,Operational
+4285,12989,Jerusalem Clinic,Nairobi,Medical Clinic,Local Authority,Bahati,,EMBAKASI WEST,N,N,Operational
+4289,19548,Jesus Is Alive Dental Clinic (Nairobi),Nairobi,Dental Clinic,Private Practice - Unspecified,Central,Central,STAREHE,,,Operational
+4293,18672,Jeytee,Nairobi,Medical Clinic,Private Enterprise (Institution),kasarani,Kasarani,KASARANI,N,N,Operational
+4300,12990,Jinnah Ave Clinic,Nairobi,Dispensary,Local Authority,Nairobi West,South C,LANG'ATA,N,N,Operational
+4303,12991,Jkia Health Centre,Nairobi,Health Centre,Ministry of Health,Embakasi,Embakasi,EMBAKASI EAST,Y,Y,Operational
+4309,17650,Johanna Justin-Jinich Community Clinic (Kibera),Nairobi,Medical Clinic,Non-Governmental Organizations,Sarang'ombe,Gatwekera,KIBRA,N,Y,Operational
+4346,18594,Joy Nursing Home and Maternity,Nairobi,Nursing Home,Private Practice - General Practitioner,Eastleigh North,Eastleigh North,KAMUKUNJI,Y,Y,Operational
+4353,19398,Jozi Medical Centre,Nairobi,Medical Clinic,Private Practice - General Practitioner,Githurai,zimmerman,ROYSAMBU,N,Y,Operational
+4357,12992,Juhudi Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Makogeni,Makogeni,MAKADARA,N,N,Operational
+4360,19318,Juja Road Hospital (Nairobi),Nairobi,Other Hospital,Private Enterprise (Institution),Kariokor,Pangani,STAREHE,Y,Y,Operational
+4368,18407,Just Meno Limited,Nairobi,Medical Clinic,Private Practice - General Practitioner,Harambee,Buruburu,MAKADARA,N,Y,Operational
+4403,12993,Kabete Approved School Dispensary,Nairobi,Dispensary,Ministry of Health,Lower Kabete,,WESTLANDS,N,N,Operational
+4404,12994,Kabete Barracks Dispensary,Nairobi,Dispensary,Armed Forces,L/Kabete,,WESTLANDS,N,N,Operational
+4416,12995,Kabiro Medical Clinic,Nairobi,Health Centre,Non-Governmental Organizations,Kawangware,,DAGORETTI NORTH,Y,Y,Operational
+4459,19528,Green Croos Medical and Dental Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Kangemi,,WESTLANDS,Y,Y,Operational
+4460,19895,Green Cross Medical Clinic,Nairobi,Medical Clinic,Private Practice - Clinical Officer,Laini saba,Silanga,LANG'ATA,N,Y,Operational
+4469,12961,Gsu Dispensary (Nairobi West),Nairobi,Dispensary,Ministry of Health,Kibera,Makina,LANG'ATA,N,N,Operational
+4472,12963,Gsu Hq Dispensary (Ruaraka),Nairobi,Dispensary,Other Public Institution,Roysambu,,ROYSAMBU,N,N,Operational
+4473,12962,GSUTraining School,Nairobi,Health Centre,Ministry of Health,Embakasi,Embakasi,EMBAKASI EAST,N,N,Operational
+4484,12965,Guru Nanak Hospital,Nairobi,Other Hospital,Private Enterprise (Institution),Ngara,,STAREHE,N,N,Operational
+4492,12966,Gynapaed Dispensary (Kilimani-),Nairobi,Dispensary,Private Enterprise (Institution),Kilimani,,DAGORETTI NORTH,N,N,Operational
+4501,12967,Hakati Medical Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Kayole,Embakasi,EMBAKASI CENTRAL,N,N,Operational
+4505,19610,Hallal Medical Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),,,KAMUKUNJI,N,Y,Operational
+4511,19472,Hamza Medical Centre,Nairobi,Medical Clinic,Private Practice - Clinical Officer,Makadara,Hamza,MAKADARA,Y,Y,Operational
+4528,19566,Hazina Medical Clinic,Nairobi,Medical Clinic,Private Practice - Medical Specialist,Central,Central,STAREHE,N,Y,Operational
+4530,19497,Health Care Services,Nairobi,Medical Clinic,Private Practice - General Practitioner,,,MAKADARA,N,Y,Operational
+4532,19582,Health Matters Medical Centre,Nairobi,Medical Clinic,Private Practice - General Practitioner,Central,Central,STAREHE,N,Y,Operational
+4534,17954,Health Services Limited,Nairobi,Dispensary,Private Practice - General Practitioner,Woodley,Woodley,DAGORETTI NORTH,N,Y,Operational
+4538,18278,Healthways Medical Centre,Nairobi,Medical Clinic,Private Enterprise (Institution),Nairobi West,South C,LANG'ATA,N,Y,Operational
+4544,21263,Hekima Medical Centre,Nairobi,Medical Clinic,Private Practice - Clinical Officer,Githurai ,Githurai 44,ROYSAMBU,N,Y,Operational
+4623,12970,Hope Community VCT,Nairobi,VCT Centre (Stand-Alone),Other Faith Based,Riruta setlite,,DAGORETTI SOUTH,N,N,Operational
+4627,19278,Hope Medical Clinic ( Githurai),Nairobi,Medical Clinic,Private Practice - General Practitioner,Githurai,Githurai,ROYSAMBU,N,Y,Operational
+4628,19234,Hope Medical Clinic (Babadogo),Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Ruaraka, Ruaraka,RUARAKA,N,Y,Operational
+4642,17684,Hope World Wide Kenya Mukuru Clinic,Nairobi,Dispensary,Non-Governmental Organizations,Mukuru,Imara Daima,EMBAKASI SOUTH,Y,Y,Operational
+4645,18543,Hope Worldwide Kenya VCT (Makadara),Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Maringo,Maringo,MAKADARA,N,N,Operational
+4646,19373,Horeb Medical Clinic ( Hunters),Nairobi,Medical Clinic,Private Practice - General Practitioner,kasarani,kasarani,KASARANI,N,Y,Operational
+4648,19643,Horseet Medical Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Eastleigh North,Eastleigh North,KAMUKUNJI,N,Y,Operational
+4653,20063,Hoymas VCT (Nairobi),Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Pangani,Pangani,STAREHE,N,Y,Operational
+4656,17393,Huduma Health Centre,Nairobi,Maternity Home,Private Practice - Clinical Officer,Sarang'ombe,Sarang'ombe,LANG'ATA,Y,Y,Operational
+4664,19302,Hunters Medical Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,kasarani,kasarani,KASARANI,N,Y,Operational
+4666,12973,Huruma (EDARP),Nairobi,VCT Centre (Stand-Alone),Kenya Episcopal Conference-Catholic Secretariat,Huruma,,MATHARE,N,N,Operational
+4667,12972,Huruma (NCCK) Dispensary,Nairobi,Dispensary,Christian Health Association of Kenya,Huruma,,MATHARE,Y,Y,Operational
+4672,12974,Huruma Lions Dispensary,Nairobi,Dispensary,Local Authority,Huruma,Kia Maiko,MATHARE,N,N,Operational
+4673,12975,Huruma Maternity Hospital,Nairobi,Other Hospital,Private Enterprise (Institution),Mathare,,MATHARE,N,N,Operational
+4684,12976,Huruma Nursing Home & Maternity,Nairobi,Nursing Home,Private Enterprise (Institution),Huruma,Ngei,MATHARE,Y,Y,Operational
+4686,20556,I Choose Life - Africa(Kileleshwa),Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Riverside,Riverside,DAGORETTI NORTH,N,N,Operational
+4687,18201,I Choose Life Africa,Nairobi,Medical Clinic,Private Enterprise (Institution),Mukuru,MUkuru Kwa Njenga,EMBAKASI SOUTH,N,Y,Operational
+4709,20145,IDEWES,Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Kibera,Makina,LANG'ATA,N,Y,Operational
+4710,12980,IDF Mathare Dispensary,Nairobi,Dispensary,Private Enterprise (Institution),Eastleigh Section I,,KAMUKUNJI,N,N,Operational
+4742,19427,Goldmed Chemists & Clinic,Nairobi,Medical Clinic,Private Practice - Unspecified,Central,Central,STAREHE,N,N,Operational
+4785,19539,Focus Outreach Medical Mission,Nairobi,Medical Clinic,Private Practice - Clinical Officer,parklands,,WESTLANDS,N,Y,Operational
+4800,18612,Fremo Medical Centre,Nairobi,Health Centre,Private Practice - Clinical Officer,Riruta,Riruta,DAGORETTI SOUTH,Y,Y,Operational
+4801,12944,Frepals Community Nursing Home,Nairobi,Maternity Home,Non-Governmental Organizations,Laini Saba,Mashimoni,LANG'ATA,Y,Y,Operational
+4813,12945,Future Age Medical Services,Nairobi,Medical Clinic,Private Enterprise (Institution),Karen,Karen,LANG'ATA,N,Y,Operational
+4837,12946,Gaimu Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Mathare,,STAREHE,N,N,Operational
+4914,16803,Gatina United Clinic,Nairobi,Medical Clinic,Non-Governmental Organizations,Kawangware,Kawangware,DAGORETTI NORTH,N,N,Operational
+4947,19611,Gedmed Medical Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),,,KAMUKUNJI,N,Y,Operational
+4961,12949,Genessaret Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Umoja,Savannah,EMBAKASI WEST,N,N,Operational
+4962,19287,Genus Medical Services & Diagnostic Lab,Nairobi,Medical Clinic,Private Practice - General Practitioner,Roysambu,Roysambu,ROYSAMBU,N,Y,Operational
+4964,17725,Gertrude Komarock Clinic,Nairobi,Health Centre,Private Practice - General Practitioner,Keyole,Komarock,EMBAKASI CENTRAL,Y,Y,Operational
+4966,19314,Gertrudes Chiildren Clinic (Pangani),Nairobi,Medical Clinic,Private Enterprise (Institution),Kariokor,Kariokor,STAREHE,N,Y,Operational
+4969,12950,Gertrudes Childrens Hospital,Nairobi,Other Hospital,Private Enterprise (Institution),Muthaiga,,WESTLANDS,N,N,Operational
+4970,12951,Gertrudes Othaya Road Dispensary,Nairobi,Dispensary,Private Enterprise (Institution),Kilimani,,DAGORETTI NORTH,N,N,Operational
+4993,12952,Getrude Donholm Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Umoja,Savannah,EMBAKASI WEST,Y,Y,Operational
+4994,18395,Getrude Embakasi Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,Embakasi,Embakasi,EMBAKASI SOUTH,N,Y,Operational
+4995,20886,Getrudes Children's Hospital,Nairobi,Medical Clinic,Private Practice - Clinical Officer,Hamza,Hamza,MAKADARA,,,Operational
+4996,12953,Getrudes Hospital (Nairobi West Clinic),Nairobi,Medical Clinic,Private Enterprise (Institution),Nairobi West,Nairobi West,LANG'ATA,N,Y,Operational
+5009,16799,Gichago Dispensary,Nairobi,Dispensary,Private Enterprise (Institution),Kangemi,Gichagi,WESTLANDS,N,N,Operational
+5026,21264,Imani 44 Medical Centre,Nairobi,Medical Clinic,Private Practice - Clinical Officer,Githurai ,Githurai 44,ROYSAMBU,N,Y,Operational
+5030,19469,Imani Health Servises,Nairobi,Health Centre,Private Practice - Nurse / Midwife,Waithaka,Waithaka,DAGORETTI SOUTH,Y,Y,Operational
+5041,19538,Gitanga Medical Centre,Nairobi,Dispensary,Private Enterprise (Institution),Kawagware,kawagware,DAGORETTI NORTH,N,N,Operational
+5063,18887,Githogoro Runda Baptist Clinic (Getrudes Nairobi),Nairobi,Dispensary,Private Enterprise (Institution),Githogoro,Githogoro,WESTLANDS,N,N,Operational
+5076,17942,Githurai Liverpool VCT,Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Githurai,Githurai,ROYSAMBU,N,N,Operational
+5077,12956,Githurai Medical Dispensary,Nairobi,Dispensary,Private Enterprise (Institution),Githurai,,ROYSAMBU,N,N,Operational
+5078,12957,Githurai VCT,Nairobi,VCT Centre (Stand-Alone),Private Enterprise (Institution),Githurai,,ROYSAMBU,N,N,Operational
+5186,20396,Dr.P.W.Kamau&Associates(Upper Hill Medical Centre),Nairobi,Medical Clinic,Private Practice - General Practitioner,Kilimani,Kilimani,DAGORETTI NORTH,N,Y,Operational
+5188,18389,Dreamline Medical Clinic Kamulu,Nairobi,Medical Clinic,Private Practice - General Practitioner,Ruai,Kamulu,KASARANI,Y,N,Operational
+5189,12929,Dreams Centre Dispensary (Langata),Nairobi,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,Lang'ata,Lang'ata,LANG'ATA,N,N,Operational
+5194,20234,Drugnet Medical centre,Nairobi,Medical Clinic,Private Practice - Unspecified,Ruaraka,mathare,RUARAKA,Y,Y,Operational
+5196,13099,Dsc Karen Dispensary (Armed Forces),Nairobi,Dispensary,Armed Forces,Karen,Karen,LANG'ATA,Y,Y,Operational
+5212,21146,Eagle Health Care Solution ,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,,,WESTLANDS,N,Y,Operational
+5213,18739,Eagle Wings Medical Centre,Nairobi,Medical Clinic,Private Practice - Medical Specialist,Mugumoini,Mugumoini,LANG'ATA,N,Y,Operational
+5224,19452,Eastern Medical Clinic,Nairobi,Medical Clinic,Private Practice - Unspecified,kayole,,EMBAKASI CENTRAL,N,Y,Operational
+5226,12930,Eastleigh Health Centre,Nairobi,Health Centre,Local Authority,Eastleigh Section I,Eastleigh Section I,KAMUKUNJI,N,N,Operational
+5227,19526,Eastway Medical Centre,Nairobi,Dispensary,Private Enterprise (Institution),Kawagware,kawagware,DAGORETTI NORTH,N,N,Operational
+5237,18990,Ebenezer Medical Services,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Laini Saba,Laini Saba,LANG'ATA,N,Y,Operational
+5252,13220,EDARP Donholm Clinic,Nairobi,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,Savannah,Savannah,EMBAKASI EAST,N,N,Operational
+5253,17719,EDARP Komarock Health Centre,Nairobi,Medical Clinic,Kenya Episcopal Conference-Catholic Secretariat,Komarock,Komarock,EMBAKASI CENTRAL,N,N,Operational
+5254,17548,EDARP Njiru Clinic,Nairobi,Medical Clinic,Kenya Episcopal Conference-Catholic Secretariat,Njiru,Njiru,KASARANI,N,N,Operational
+5255,13169,EDARP Ruai Clinic,Nairobi,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,Ruai,Ruai,KASARANI,N,N,Operational
+5256,13191,EDARP Soweto Health Centre,Nairobi,Health Centre,Kenya Episcopal Conference-Catholic Secretariat,Kayole,Kayole,EMBAKASI CENTRAL,N,N,Operational
+5259,12931,Eden Dispensary,Nairobi,Dispensary,Private Enterprise (Institution),Kahawa,,ROYSAMBU,N,N,Operational
+5260,12932,Ediana Nursing Home,Nairobi,Nursing Home,Private Enterprise (Institution),Githurai,,ROYSAMBU,N,N,Operational
+5262,12933,Edna Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Eastleigh Section I,,KAMUKUNJI,N,N,Operational
+5263,12934,Edna Maternity,Nairobi,Maternity Home,Private Enterprise (Institution),Eastleigh Section Iii,,KAMUKUNJI,N,N,Operational
+5276,19252,Embakasi District Medical Office,Nairobi,District Health Office,Ministry of Health,Mukuru,Imara Daima,EMBAKASI SOUTH,N,N,Operational
+5277,12935,Embakasi Health Centre,Nairobi,Health Centre,Local Authority,Embakasi,Embakasi,EMBAKASI EAST,N,N,Operational
+5278,19437,Embakasi Medical Centre,Nairobi,Health Centre,Private Practice - Clinical Officer,Mukuru,Kwa Njenga,EMBAKASI SOUTH,Y,Y,Operational
+5279,18894,Embakasi Medical Centre (Aun),Nairobi,Medical Clinic,Private Practice - General Practitioner,Tassia,Tassia,EMBAKASI WEST,N,Y,Operational
+5291,21215,Emerging Infectious Disease Center,Nairobi,Medical Clinic,Private Practice - General Practitioner,,,WESTLANDS,N,Y,Operational
+5297,18987,Emko Clinic,Nairobi,Medical Clinic,Private Practice - Clinical Officer,Kibra,Makina,KIBRA,N,Y,Operational
+5302,18893,Emmanuel Medical Centre,Nairobi,Medical Clinic,Private Practice - General Practitioner,Savannah,Savannah,EMBAKASI WEST,Y,Y,Operational
+5308,12936,Emmaus Nursing Home,Nairobi,Maternity Home,Private Enterprise (Institution),Umoja,Savannah,EMBAKASI WEST,Y,Y,Operational
+5347,18613,Glory Health Clinic,Nairobi,Dispensary,Private Practice - Nurse / Midwife,Riruta,Riruta,DAGORETTI SOUTH,,Y,Operational
+5356,18282,Glovnet VCT,Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Makadara,Mbotela,MAKADARA,N,N,Operational
+5416,19995,Evesben Foundation Medical Clinic,Nairobi,Medical Clinic,Private Practice - Clinical Officer,Laini Saba,Laini Saba,LANG'ATA,N,Y,Operational
+5424,19443,Exodus Community Health Care,Nairobi,Medical Clinic,Private Practice - Unspecified,,kayole,EMBAKASI CENTRAL,Y,Y,Operational
+5430,19572,Eyeclinic (Nairobi),Nairobi,Eye Clinic,Private Practice - Unspecified,Central,Central,STAREHE,N,N,Operational
+5447,19274,Family Acces Medical Centre,Nairobi,Medical Clinic,Private Practice - General Practitioner,Githurai,zimmerman,RUARAKA,N,Y,Operational
+5448,12937,Family Care Clinic Kasarani,Nairobi,Dispensary,Private Enterprise (Institution),Githurai,,ROYSAMBU,N,N,Operational
+5451,12942,Family Care Medical Centre & Maternity,Nairobi,Maternity Home,Non-Governmental Organizations,Nairobi West,Nairobi West,LANG'ATA,Y,Y,Operational
+5455,18755,Family Dental Care (Ayany),Nairobi,Medical Clinic,Private Practice - Medical Specialist,Sarang'ombe,Kianda,LANG'ATA,N,Y,Operational
+5461,12938,Family Health Medical Dispensary,Nairobi,Dispensary,Non-Governmental Organizations,Golfcourse,,DAGORETTI NORTH,N,N,Operational
+5463,18217,Family Health Option of Kenya,Nairobi,Medical Clinic,Non-Governmental Organizations,Eastleigh North,,KAMUKUNJI,N,Y,Operational
+5468,12939,Family Health Options Phoenix,Nairobi,Dispensary,Non-Governmental Organizations,Central Business District,,STAREHE,N,N,Operational
+5470,12941,Family Life Promotions and Services,Nairobi,Dispensary,Non-Governmental Organizations,Jerusalem,Bahati,EMBAKASI WEST,Y,Y,Operational
+5474,18390,Family Medical Centre (Ruai),Nairobi,Medical Clinic,Private Practice - General Practitioner,Ruai,Ruai,KASARANI,Y,Y,Operational
+5486,18795,Church Army Medical Clinic,Nairobi,Medical Clinic,Christian Health Association of Kenya,Makongeni,Makongeni,MAKADARA,N,Y,Operational
+5497,18629,CID HQS Dispensary,Nairobi,Dispensary,State Coorporation,Roysambu,,ROYSAMBU,N,N,Operational
+5498,12897,Cidi Mukuru Clinic,Nairobi,Medical Clinic,Other Faith Based,Mukuru,Kwa Njenga,EMBAKASI SOUTH,Y,Y,Operational
+5499,19641,City Point Medical Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),,,KAMUKUNJI,N,Y,Operational
+5503,12898,Clinitec Medical Services,Nairobi,Medical Centre,Company Medical Service,Kilimani,,DAGORETTI NORTH,N,N,Operational
+5504,17388,Clinix Health Care,Nairobi,Medical Clinic,Private Practice - Unspecified,Nairobi West,Nairobi West,LANG'ATA,Y,Y,Operational
+5505,18754,Clinix Health Care (Kibra),Nairobi,Medical Clinic,Private Enterprise (Institution),Sarang'ombe,Kianda,KIBRA,N,N,Operational
+5509,20369,CMIA Grace Children's Centre Dispensary,Nairobi,Dispensary,Christian Health Association of Kenya,Langata,Hardy,LANG'ATA,N,N,Operational
+5510,20326,CMM Clinic,Nairobi,Dispensary,Christian Health Association of Kenya,Sarang'ombe,Olympic,KIBRA,N,N,Operational
+5513,18745,Comboni Missionary Sisters Health Programm,Nairobi,Health Programme,Kenya Episcopal Conference-Catholic Secretariat,Korogocho,Nyayo,RUARAKA,N,Y,Operational
+5516,19455,Communal Oriented Service International Centre,Nairobi,Health Centre,Private Practice - General Practitioner,Embakasi,Tassia,EMBAKASI EAST,Y,Y,Operational
+5520,20230,Community Evolution Network VCT,Nairobi,Medical Clinic,Non-Governmental Organizations,Kibera,Lindi,KIBRA,N,Y,Operational
+5521,12901,Community Health Foundation,Nairobi,Dispensary,Community,Central Business District,,STAREHE,N,N,Operational
+5524,12902,Compassionate Hospital,Nairobi,Other Hospital,Private Enterprise (Institution),Kasarani,,RUARAKA,N,N,Operational
+5528,12903,Conerstone Clinic,Nairobi,Medical Clinic,Christian Health Association of Kenya,Njiru, Njiru ,EMBAKASI WEST,N,N,Operational
+5529,20641,Congo medical services,Nairobi,Medical Clinic,Private Enterprise (Institution),Kahawa west,kongo,ROYSAMBU,Y,Y,Operational
+5530,12958,Coni Health Centre,Nairobi,Health Centre,Private Practice - Nurse / Midwife,Kayole,Embakasi,EMBAKASI CENTRAL,Y,Y,Operational
+5531,19450,Connections Medical Clinic,Nairobi,Medical Clinic,Private Practice - Unspecified,Embakasi,Embakasi,EMBAKASI EAST,N,Y,Operational
+5537,18888,Consolata Shrine Dispensary (Deep Sea Nairobi),Nairobi,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,Highridge,Highridge,WESTLANDS,N,Y,Operational
+5540,12905,Coptic Hospital (Ngong Road),Nairobi,Other Hospital,Christian Health Association of Kenya,Kilimani,Kilimani,DAGORETTI NORTH,Y,Y,Operational
+5541,12904,Coptic Medical Clinic,Nairobi,Medical Clinic,Christian Health Association of Kenya,Viwandani,Landi Mawe,MAKADARA,N,Y,Operational
+5543,19439,Corban Health Care,Nairobi,Health Centre,Private Practice - Nurse / Midwife,Umoja,Tena,EMBAKASI WEST,N,Y,Operational
+5547,19470,Corner Hse Med Laboratory,Nairobi,Laboratory (Stand-alone),Private Practice - Unspecified,Central,Central,STAREHE,N,Y,Operational
+5549,12906,Corner Stone,Nairobi,VCT Centre (Stand-Alone),Private Enterprise (Institution),Kasarani,,ROYSAMBU,N,N,Operational
+5553,12907,Cotolengo Centre,Nairobi,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,Karen,Karen,LANG'ATA,N,N,Operational
+5562,18794,Couple Counselling Centre,Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,KNH,KNH,KIBRA,N,N,Operational
+5569,19486,Credible Health Centre,Nairobi,Medical Clinic,Private Practice - General Practitioner,,,MAKADARA,Y,Y,Operational
+5570,19392,Crescent Medical Aid (Jamia Towers),Nairobi,Dispensary,Supreme Council for Kenya Muslims,Central,Central,STAREHE,N,Y,Operational
+5571,12900,Crescent Medical Aid (Pangani),Nairobi,Medical Clinic,Non-Governmental Organizations,Kariokor,Pangani,STAREHE,N,N,Operational
+5572,19634,Crescent Medical Aid Kenya Korogocho Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,Korogocho,korogocho,RUARAKA,N,Y,Operational
+5573,12899,Crescent Medical Aid Murang'a Road,Nairobi,Medical Clinic,Non-Governmental Organizations,Starehe,City Square,STAREHE,N,N,Operational
+5577,19301,Crow Medical Centre,Nairobi,Medical Clinic,Private Practice - General Practitioner,Githurai,Githurai,ROYSAMBU,N,Y,Operational
+5590,12908,Dabliu Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Kayole,Embakasi,EMBAKASI CENTRAL,N,N,Operational
+5602,19703,Dap Health Clinic,Nairobi,Medical Clinic,Private Practice - Medical Specialist,Komarock,Komarock,EMBAKASI CENTRAL,N,Y,Operational
+5616,20195,Debomart Med Clinic,Nairobi,Medical Clinic,Private Practice - Medical Specialist,Bahati,Bahati,MAKADARA,N,Y,Operational
+5621,19377,Delight Chemist & Lab,Nairobi,Medical Clinic,Private Practice - General Practitioner,Ruaraka,mathare north,RUARAKA,N,Y,Operational
+5624,12915,Delta Medical Clinic Dandora,Nairobi,Medical Clinic,Private Enterprise (Institution),Dandora,Dandora,EMBAKASI NORTH,N,N,Operational
+5635,20489,Dessein Health Care,Nairobi,Medical Clinic,Private Practice - General Practitioner,Hazina,Hazina,MAKADARA,N,Y,Operational
+5636,17949,Destiny Medical Centre (Ruaraka),Nairobi,Dispensary,Private Practice - Unspecified,Kasarani,Kasarani,RUARAKA,Y,Y,Operational
+5648,12916,Diani Dispensary,Nairobi,Dispensary,Private Enterprise (Institution),Eastleigh Section Iii,,KAMUKUNJI,N,N,Operational
+5666,17663,Discordant Couples of Kenya VCT,Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Sarang'ombe,Kianda/Ayany,KIBRA,N,N,Operational
+5671,18388,Divine Mercy Kariobangi,Nairobi,Medical Clinic,Other Faith Based,Kariobangi South,Kariobangi South,EMBAKASI WEST,N,Y,Operational
+5673,12917,Diwopa Health Centre,Nairobi,Health Centre,Kenya Episcopal Conference-Catholic Secretariat,Kayole,Kayole,EMBAKASI CENTRAL,Y,Y,Operational
+5676,12918,Dod Mrs Dispensary,Nairobi,Dispensary,Armed Forces,Kilimani,,DAGORETTI NORTH,N,N,Operational
+5677,12919,Dog Unit Dispensary (O P Kenya Police),Nairobi,Dispensary,Other Public Institution,Mugumoini,Mugumoini,LANG'ATA,N,N,Operational
+5689,12921,Dorkcare Nursing Home,Nairobi,Nursing Home,Private Enterprise (Institution),Eastleigh North,,KAMUKUNJI,Y,Y,Operational
+5690,20529,Doulos Youth Friendly And VCT (KCC),Nairobi,VCT Centre (Stand-Alone),Other Faith Based,Kariobangi South,KCC,EMBAKASI WEST,N,Y,Operational
+5699,19559,Dr Ashwin Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,Central,Central,STAREHE,N,Y,Operational
+5701,12924,Dr Aziz Mohamed Medical Clinic,Nairobi,Medical Clinic,Private Practice - Unspecified,Kilimani,,DAGORETTI NORTH,N,N,Operational
+5705,20086,Dr Barnados House clinic,Nairobi,Medical Clinic,Kenya Episcopal Conference-Catholic Secretariat,Mugumoini,Mugumoini,LANG'ATA,N,Y,Operational
+5708,19418,Dr Chaundry Dental Services (Nairobi),Nairobi,Medical Clinic,Private Practice - Unspecified,Central,Central,STAREHE,N,Y,Operational
+5709,19564,Dr David Chew Clinic,Nairobi,Medical Clinic,Private Practice - Medical Specialist,Central,Central,STAREHE,N,Y,Operational
+5716,19565,Dr Eliud Njuguna (Parklands),Nairobi,Medical Clinic,Private Practice - Medical Specialist,Parklands,,WESTLANDS,Y,Y,Operational
+5719,18778,Dr Florence Murila (Ngong Road),Nairobi,Medical Clinic,Private Practice - Medical Specialist,Kilimani,Kilimani,DAGORETTI NORTH,N,Y,Operational
+5721,12922,Dr Gachare Medical Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Kilimani,,DAGORETTI NORTH,N,N,Operational
+5725,19425,Dr George Munene Medical Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,Central,Central,STAREHE,N,N,Operational
+5726,19567,Dr Gichuru Mwangi,Nairobi,Medical Clinic,Private Practice - Medical Specialist,Parklands,Parklands,WESTLANDS,N,Y,Operational
+5731,19563,Dr Henry Abwao,Nairobi,Medical Clinic,Private Practice - Medical Specialist,Parklands,,WESTLANDS,N,Y,Operational
+5733,18807,Dr Irimu Medical Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,Golfcourse,Golfcourse,KIBRA,N,N,Operational
+5735,19961,Dr J A Alouch,Nairobi,Medical Clinic,Private Enterprise (Institution),,,DAGORETTI NORTH,N,Y,Operational
+5738,19522,Dr J L Amugugaba Clinic (Nairobi),Nairobi,Medical Clinic,Private Practice - General Practitioner,Central,Central,STAREHE,N,N,Operational
+5740,19468,Dr Jemmah & Nyawange Med Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,Central,Central,STAREHE,N,N,Operational
+5756,19286,Imani Medical Clinic ( Mathare A 4),Nairobi,Medical Clinic,Private Practice - General Practitioner,Ruaraka,Utalii,ROYSAMBU,N,Y,Operational
+5766,17685,Imara Health Centre,Nairobi,Health Centre,Christian Health Association of Kenya,Mukuru,Mukuru Kwa Njenga,EMBAKASI SOUTH,Y,Y,Operational
+5767,12981,Imara Medical Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Mukuru Nyayo,Mukuru Nyayo,EMBAKASI SOUTH,N,N,Operational
+5775,19574,Imenti Medical Centre,Nairobi,Medical Clinic,Private Practice - Unspecified,Central,Central,STAREHE,N,N,Operational
+5781,19646,Dr Mboloi Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,Kenyatta,Kenyatta,KIBRA,N,N,Operational
+5784,12925,Dr MOHamed Clinic,Nairobi,Medical Clinic,Private Practice - Unspecified,Maringo,Maringo,MAKADARA,N,N,Operational
+5785,12926,Dr Montet Medical Clinic,Nairobi,Medical Clinic,Private Practice - Unspecified,Kilimani,,DAGORETTI NORTH,N,N,Operational
+5786,12927,Dr Muasya Medical Clinic,Nairobi,Medical Clinic,Private Practice - Unspecified,Kilimani,,DAGORETTI NORTH,N,N,Operational
+5788,19981,Dr Muhindi Clinic (Kilimani),Nairobi,Medical Clinic,Private Practice - General Practitioner,,,DAGORETTI NORTH,N,Y,Operational
+5794,19979,Dr Mureithi Clinic (Kilimani),Nairobi,Medical Clinic,Private Practice - General Practitioner,,,DAGORETTI NORTH,N,Y,Operational
+5796,19416,Dr Musili Clinic (Afya Centre-Nairobi),Nairobi,Medical Clinic,Private Practice - Medical Specialist,Central,Central,STAREHE,N,N,Operational
+5844,12889,Cana Family Life Clinic,Nairobi,Maternity Home,Non-Governmental Organizations,Viwandani,Lungalunga,MAKADARA,Y,Y,Operational
+5848,12890,Canaan Health Providers (Nairobi),Nairobi,Medical Clinic,Private Enterprise (Institution),City Square,,STAREHE,N,Y,Operational
+5861,12891,Carolina For Kibera VCT,Nairobi,Medical Clinic,Non-Governmental Organizations,Sarang'ombe,Olympic,KIBRA,N,Y,Operational
+5865,18484,Catholic Dispensary Kariobangi,Nairobi,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,kariobangi ,kariobangi,EMBAKASI NORTH,N,Y,Operational
+5870,12892,Catholic University Dispensary,Nairobi,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,Langata,,LANG'ATA,N,N,Operational
+5906,19974,Central Bank Staff Clinic,Nairobi,Medical Clinic,State Coorporation,City Cenre,CBD,STAREHE,N,Y,Operational
+5911,19578,Central Medical Clinic (Nairobi),Nairobi,Medical Clinic,Private Practice - General Practitioner,Central,Central,STAREHE,N,Y,Operational
+5914,19531,Central Park Clinic,Nairobi,Dispensary,Private Practice - General Practitioner,Riruta,Kabiria,DAGORETTI NORTH,N,Y,Operational
+5918,21148,CFW Clinics Kibagare,Nairobi,Health Centre,Non-Governmental Organizations,,,WESTLANDS,N,Y,Operational
+5939,12893,Chandaria Health Centre,Nairobi,Health Centre,Community,Uthiru/Ruthimitu,Gachui,DAGORETTI SOUTH,N,N,Operational
+6113,19569,Dr Ngathia Dental Clinic,Nairobi,Dental Clinic,Private Practice - Unspecified,Central,Central,STAREHE,N,N,Operational
+6121,19423,Dr Nzuki Hildapaed Clinic,Nairobi,Medical Clinic,Private Practice - Medical Specialist,Central,Central,STAREHE,N,N,Operational
+6128,19426,Dr Parmar Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,Central,Central,STAREHE,N,N,Operational
+6129,19480,Dr Parmar Medical Clinic (Nairobi),Nairobi,Medical Clinic,Private Practice - General Practitioner,Central,Central,STAREHE,N,N,Operational
+6130,20105,Dr Paul Ondiege Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,Central,Central,STAREHE,N,Y,Operational
+6131,19534,Dr Praful M Sanghani,Nairobi,Dental Clinic,Private Practice - Unspecified,Central,Central,STAREHE,N,N,Operational
+6134,19576,Dr Rosaline Thara Dental Clinic,Nairobi,Dental Clinic,Private Practice - Unspecified,Central,Central,STAREHE,N,N,Operational
+6146,12875,Babadogo (EDARP),Nairobi,VCT Centre (Stand-Alone),Kenya Episcopal Conference-Catholic Secretariat,Ruaraka,,RUARAKA,N,N,Operational
+6147,12876,Babadogo Health Centre,Nairobi,Dispensary,Local Authority,Ruaraka,,RUARAKA,N,N,Operational
+6148,12877,Babadogo Medical Health Centre,Nairobi,Health Centre,Private Enterprise (Institution),Githurai,,RUARAKA,N,N,Operational
+6149,19296,Babito Medical Centre,Nairobi,Medical Clinic,Private Practice - General Practitioner,Ruaraka,Utalii,RUARAKA,N,Y,Operational
+6156,19557,Bafana Medical Centre,Nairobi,Medical Clinic,Private Enterprise (Institution),Kangemi,,WESTLANDS,N,Y,Operational
+6162,12878,Bahati Clinic,Nairobi,Dispensary,Local Authority,Bahati,Bahati,MAKADARA,N,N,Operational
+6165,12879,Bahati Health Centre,Nairobi,Health Centre,Local Authority,Bahati,Bahati,MAKADARA,Y,Y,Operational
+6167,12880,Bahati Medical Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Kayole,Embakasi,MAKADARA,N,N,Operational
+6177,21273,Baldo Ippolita Catholic Health Centre,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Mukuru,Pipeline,EMBAKASI SOUTH,Y,Y,Operational
+6197,19428,Bans Optical (Nairobi),Nairobi,Eye Centre,Private Practice - Unspecified,Central,Central,STAREHE,N,N,Operational
+6206,18468,Bar Hostess Empowerment Support Program VCT,Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Ruaraka,Mathare,RUARAKA,N,Y,Operational
+6217,19571,Dr Stephen Macharia Medical Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,Central,Central,STAREHE,N,N,Operational
+6228,12928,Dr Were Medical Clinic,Nairobi,Medical Clinic,Private Practice - Unspecified,Kilimani,,DAGORETTI NORTH,N,N,Operational
+6234,20393,Dr.Charles.J.R.Opondo (landmark plaza),Nairobi,Medical Clinic,Private Practice - Medical Specialist,Kilimani,Kilimani,DAGORETTI NORTH,N,Y,Operational
+6236,20394,Dr.Henry Wellington Alube (landmark plaza),Nairobi,Medical Clinic,Private Practice - General Practitioner,Kilimani,Kilimani,DAGORETTI NORTH,N,Y,Operational
+6237,20397,Dr.K.Gicheru(Upper Hill Centre),Nairobi,Medical Clinic,Private Practice - Medical Specialist,Kilimani,Kilimani,DAGORETTI NORTH,N,Y,Operational
+6238,12872,Arrow Web Maternity and Nursing Home,Nairobi,Nursing Home,Non-Governmental Organizations,Kayole,Kayole,EMBAKASI CENTRAL,N,N,Operational
+6240,19560,Artisan Dental Laboratory (Nairobi),Nairobi,Laboratory (Stand-alone),Private Practice - Unspecified,Central,Central,STAREHE,N,Y,Operational
+6249,12873,Aski Medical Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Kayole,Embakasi,EMBAKASI CENTRAL,Y,Y,Operational
+6253,18348,Association of Physically Disabled of Kenya,Nairobi,Health Project,Non-Governmental Organizations,Parklands,Parklands,WESTLANDS,N,N,Operational
+6343,19035,Chonesus Clinic,Nairobi,Dispensary,Christian Health Association of Kenya,Laini Saba,Laini Saba,KIBRA,N,Y,Operational
+6375,12886,Bomas of Kenya Dispensary,Nairobi,Dispensary,Parastatal,Lang'ata,Bomas,LANG'ATA,N,N,Operational
+6389,12882,Bethel Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Huruma,,STAREHE,N,N,Operational
+6412,20374,Beyond the Bridge Vision VCT,Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Mugumoini,Mugumoini,LANG'ATA,N,N,Operational
+6414,12883,Biafra Lions Clinic,Nairobi,Medical Clinic,Local Authority,Eastleigh Section 111,Eastleigh south,KAMUKUNJI,N,N,Operational
+6415,12884,Biafra Medical Clinic,Nairobi,Dispensary,Private Enterprise (Institution),Eastleigh North,Eastleigh North,KAMUKUNJI,N,Y,Operational
+6439,16801,Al-Gadhir Clinic,Nairobi,Medical Clinic,Non-Governmental Organizations,Kawangware,Kawangware,DAGORETTI NORTH,N,N,Operational
+6445,12869,Alice Nursing Home,Nairobi,Nursing Home,Private Enterprise (Institution),Mukuru,Kwa Njenga,EMBAKASI SOUTH,Y,Y,Operational
+6451,20636,All Care Medical Centre,Nairobi,Medical Clinic,Private Practice - Unspecified,Karen,Karen,LANG'ATA,Y,Y,Operational
+6456,17847,Alliance Medical Centre,Nairobi,Medical Clinic,Private Enterprise (Institution),Eastleigh South,Eastleigh South,KAMUKUNJI,Y,Y,Operational
+6474,19520,Aculaser Institute,Nairobi,Training Institution in Health (Stand-alone),Private Enterprise (Institution),Parklands,,WESTLANDS,Y,Y,Operational
+6486,18535,Adventist Centre For Care and Support (Kilimani),Nairobi,VCT Centre (Stand-Alone),Other Faith Based,Kilimani,Kilimani,DAGORETTI NORTH,N,N,Operational
+6489,20090,African Divine Church-Org,Nairobi,VCT Centre (Stand-Alone),Other Faith Based,Mathare,Mabati-ni,MATHARE,N,Y,Operational
+6515,18769,Al Amin Nursing Home,Nairobi,Health Centre,Private Practice - Clinical Officer,Eastleigh North,Eastleigh North,KAMUKUNJI,Y,Y,Operational
+6536,19608,Al-Fallah Medical Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),,,KAMUKUNJI,N,Y,Operational
+6542,12868,Aga Khan University Hospital (Buruburu),Nairobi,Dispensary,Private Enterprise (Institution),Makadara,Harambee,MAKADARA,N,Y,Operational
+6543,20404,Aga Khan University Hospital (Capital Centre),Nairobi,Medical Clinic,Private Practice - General Practitioner,Nairobi South,Nairobi South,STAREHE,N,Y,Operational
+6577,20388,AIC Zion Medical Clinic,Nairobi,Medical Clinic,Other Faith Based,Huruma,Huruma,MATHARE,N,N,Operational
+6579,20736,AIDS Health Care Foundation Parklands Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Parklands,Highridge,WESTLANDS,N,N,Operational
+6580,20602,Aids HealthCare Foundation Eastleigh,Nairobi,Dispensary,Non-Governmental Organizations,,,KAMUKUNJI,N,Y,Operational
+6581,20538,Aimon med clinic,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Ruaraka,babadogo,RUARAKA,N,Y,Operational
+6623,19397,Afyamax Medical & Centre Dental,Nairobi,Medical Clinic,Private Practice - General Practitioner,Githurai,zimmerman,ROYSAMBU,N,Y,Operational
+6626,20605,Aga Khan Clinic ( Ngong  Rd Prestige),Nairobi,Medical Clinic,Private Practice - General Practitioner,,,KIBRA,N,Y,Operational
+6627,20236,Aga Khan Clinic (Eastleigh),Nairobi,Medical Clinic,Private Enterprise (Institution),Pumwani,Pumwani,KAMUKUNJI,N,Y,Operational
+6629,19457,Aga Khan Greenspam Medical Centre,Nairobi,Medical Clinic,Private Practice - Unspecified,Savanna,Savanna,EMBAKASI WEST,N,Y,Operational
+6631,12867,Aga Khan Hospital,Nairobi,Other Hospital,Private Enterprise (Institution),Parklands,,WESTLANDS,Y,Y,Operational
+6654,19537,Bridgeway Clinic,Nairobi,Medical Clinic,Private Practice - Medical Specialist,Kangemi,,WESTLANDS,N,Y,Operational
+6655,19405,Bridging Out-Patient,Nairobi,Medical Clinic,Private Practice - General Practitioner,Kahawa,Kahawa,ROYSAMBU,,,Operational
+6657,18271,Bristal Park Hospital,Nairobi,Other Hospital,Private Practice - General Practitioner,Embakasi,Tassia,EMBAKASI EAST,Y,Y,Operational
+6658,18277,British American Tobacco Kenya Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Viwandani,Landi Mawe,MAKADARA,N,Y,Operational
+6660,12887,Brother andre Clinic,Nairobi,Medical Clinic,Kenya Episcopal Conference-Catholic Secretariat, Dandora , Dandora ,EMBAKASI NORTH,N,N,Operational
+6724,12870,Amurt Health Centre,Nairobi,Dispensary,Non-Governmental Organizations,Kangemi,Kangemi,WESTLANDS,N,N,Operational
+6731,18770,Andulus Medical Clinic,Nairobi,Health Centre,Private Enterprise (Institution),Eastleigh North,Eastleigh North,KAMUKUNJI,Y,Y,Operational
+6736,18272,Angaza VCT,Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Kayole,Koyole  Two,EMBAKASI CENTRAL,N,N,Operational
+6748,19404,Annex Health Care,Nairobi,Medical Clinic,Private Practice - General Practitioner,Githurai,Githurai,ROYSAMBU,N,Y,Operational
+6782,12871,APTC Health Centre,Nairobi,Health Centre,Armed Forces,Embakasi,Embakasi,EMBAKASI EAST,N,N,Operational
+6857,19288,Mugumo Medical,Nairobi,Medical Clinic,Private Practice - General Practitioner,kasarani,kasarani,KASARANI,N,Y,Operational
+6906,13100,Mukuru Crescent Clinic,Nairobi,Medical Clinic,Supreme Council for Kenya Muslims,Hazina,Mukuru Nyayo,STAREHE,N,Y,Operational
+6907,18463,Mukuru Health Centre,Nairobi,Health Centre,Local Authority,Mukuru Kwanjenga,Kwanjenga,EMBAKASI SOUTH,N,N,Operational
+6908,13101,Mukuru Mmm Clinic,Nairobi,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,Mukuru,Kwa Njenga,EMBAKASI SOUTH,N,N,Operational
+6935,13018,Multi Media University Dispensary,Nairobi,Dispensary,Parastatal,Lang'ata,Lang'ata,LANG'ATA,N,N,Operational
+6959,20062,Mundika Maternity & Nursing Home,Nairobi,Nursing Home,Private Practice - Unspecified,Huruma,Ngei,MATHARE,N,Y,Operational
+6965,13102,Mundoro Medical Clinic Dandora,Nairobi,Medical Clinic,Private Enterprise (Institution),Dandora,Dandora,KASARANI,N,N,Operational
+7039,18434,Muska Medical Centre,Nairobi,Health Centre,Private Practice - Clinical Officer,Eastleigh North,,KAMUKUNJI,Y,Y,Operational
+7051,19500,Mutathamia Medical Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),,,WESTLANDS,Y,Y,Operational
+7053,13103,Muteithania Medical Clinic,Nairobi,Health Centre,Private Enterprise (Institution),Kawangware,,DAGORETTI NORTH,N,N,Operational
+7083,13104,Muthurwa Clinic,Nairobi,Medical Clinic,Local Authority,muthurwa,Muthurwa,STAREHE,N,N,Operational
+7115,13105,Mutuini Sub-District Hospital,Nairobi,Dispensary,Ministry of Health,Mutuini,Kirigu,DAGORETTI SOUTH,N,N,Operational
+7172,20091,Mwangaza ulio Na Tumaini clinic,Nairobi,Health Centre,Christian Health Association of Kenya,korogocho,korogocho,RUARAKA,Y,Y,Operational
+7185,13106,Mwatate Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Mukuru,Kwa Njenga,EMBAKASI SOUTH,N,N,Operational
+7186,19454,Mwatate Healthcare Centre,Nairobi,Medical Clinic,Non-Governmental Organizations,Embakasi,Tassia,EMBAKASI EAST,N,Y,Operational
+7215,19442,Mwera Medical Clinic,Nairobi,Medical Clinic,Private Practice - Unspecified,,,EMBAKASI CENTRAL,Y,Y,Operational
+7240,20096,MYSA VCT,Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Njiru,Njiru,EMBAKASI WEST,N,Y,Operational
+7270,13108,Nairobi Deaf (Liverpool),Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Central Business District,,STAREHE,N,N,Operational
+7271,18394,Nairobi Earc St Anne Medical Clinic,Nairobi,Medical Clinic,Academic (if registered),Makadara,Hamsa,MAKADARA,N,N,Operational
+7272,20264,Nairobi East Hospital Ltd,Nairobi,Nursing Home,Private Practice - Medical Specialist,Pumwani,Pumwani,KAMUKUNJI,Y,Y,Operational
+7273,19580,Nairobi Eye Associates,Nairobi,Eye Centre,Private Practice - Unspecified,Central,Central,STAREHE,N,Y,Operational
+7275,13110,Nairobi Hospital,Nairobi,Other Hospital,Private Enterprise (Institution),Kilimani,,DAGORETTI NORTH,Y,Y,Operational
+7276,13111,Nairobi Outpatient Centre,Nairobi,Medical Clinic,Private Enterprise (Institution),Central Business District,,STAREHE,Y,Y,Operational
+7277,19477,Nairobi Outreach Services Trust,Nairobi,Medical Clinic,Private Practice - General Practitioner,Central,Central,STAREHE,N,N,Operational
+7279,13161,Nairobi Remand Prison Health Centre,Nairobi,Dispensary,Other Public Institution,Viwandani,Landmawe,STAREHE,N,N,Operational
+7280,13113,Nairobi South Clinic,Nairobi,Medical Clinic,Local Authority,Mukuru,Mukuru Nyayo,STAREHE,N,N,Operational
+7281,13112,Nairobi South Hospital,Nairobi,Other Hospital,Private Enterprise (Institution),Nairobi West,South C,LANG'ATA,Y,Y,Operational
+7282,13114,Nairobi West Chidren Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Nairobi West,Nairobi west,LANG'ATA,N,Y,Operational
+7283,13115,Nairobi West Hospital,Nairobi,Other Hospital,Private Enterprise (Institution),Nairobi West,Nairobi West,LANG'ATA,Y,Y,Operational
+7284,13116,Nairobi West Men's Prison Dispensary,Nairobi,Dispensary,Ministry of Health,Mugumoini,Mugumoini,LANG'ATA,N,N,Operational
+7285,19609,Nairobi Women Hospital Eastleigh,Nairobi,Health Centre,Private Enterprise (Institution),,,KAMUKUNJI,Y,Y,Operational
+7289,13117,Nairobi Womens Hospital (Hurlingham),Nairobi,Other Hospital,Private Enterprise (Institution),Kilimani,Hurlingham,DAGORETTI NORTH,Y,Y,Operational
+7290,16795,Nairobi Womens Hospital Adams,Nairobi,Other Hospital,Private Enterprise (Institution),Kilimani,Maziwa,DAGORETTI NORTH,N,N,Operational
+7306,19511,Nakhayo Medical Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Kibra,Lindi,KIBRA,N,Y,Operational
+7387,19279,Narzareth Medical Services,Nairobi,Medical Clinic,Private Practice - General Practitioner,Githurai,Githurai,ROYSAMBU,N,Y,Operational
+7391,13119,NASCOP VCT,Nairobi,VCT Centre (Stand-Alone),Ministry of Health,Golfcourse,,KIBRA,N,N,Operational
+7399,20581,National Blood Transfusion Services,Nairobi,Laboratory (Stand-alone),Ministry of Health,,,KIBRA,N,N,Operational
+7400,20580,National HIV Reference Lab,Nairobi,Laboratory (Stand-alone),Ministry of Health,,,KIBRA,N,N,Operational
+7402,13194,National Spinal Injury Hospital,Nairobi,National Referral Hospital,Ministry of Health,Kilimani,Kilimani,DAGORETTI NORTH,Y,Y,Operational
+7404,13130,National Youth Service Hq Dispensary (Ruaraka),Nairobi,Dispensary,State Coorporation,Ruaraka,Utalii,ROYSAMBU,N,N,Operational
+7518,19161,Neema Medical Clinic (Kibera),Nairobi,Medical Clinic,Private Practice - Clinical Officer,Kibera,Lindi,KIBRA,N,Y,Operational
+7555,13120,New Life Home Childrens Home (Kilimani),Nairobi,Medical Clinic,Non-Governmental Organizations,Kilimani,,DAGORETTI NORTH,N,N,Operational
+7565,18218,New Partner Initiative (Npi) Sasa Centre,Nairobi,Health Project,Non-Governmental Organizations,Eastleigh North,,KAMUKUNJI,N,N,Operational
+7566,18007,New Partners Initiative Scaling Up HIV and AIDS Pr,Nairobi,Health Programme,Non-Governmental Organizations,Mukuru Nyayo ,Nairobi Suoth ,MAKADARA,N,N,Operational
+7567,19509,New Riruta Medical Clinic,Nairobi,Dispensary,Private Enterprise (Institution),Kawagware,kawagware,DAGORETTI NORTH,N,N,Operational
+7574,20530,Newlight Medical Centre(Dandora),Nairobi,Medical Clinic,Private Practice - Clinical Officer,Dandora,Dandora phase 2,KASARANI,N,N,Operational
+7575,20528,Nezel Medical Centre Njiru,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Njiru,Njiru,KASARANI,N,Y,Operational
+7581,13121,Ngaira Rhodes Dispensary,Nairobi,Dispensary,Local Authority,Central Business District,,STAREHE,N,Y,Operational
+7593,13122,Ngara Health Centre (City Council of Nairobi),Nairobi,Health Centre,Local Authority,Ngara,,STAREHE,Y,Y,Operational
+7665,13123,Ngong Road Dispensary,Nairobi,Dispensary,Local Authority,Woodley,,KIBRA,N,N,Operational
+7685,19236,Ngumba Medical Centre,Nairobi,Medical Clinic,Private Enterprise (Institution),ruarak,,RUARAKA,N,Y,Operational
+7711,19479,Nile Medical Care,Nairobi,Dispensary,Private Practice - Clinical Officer,Mutuini,Ndunyu,DAGORETTI SOUTH,N,Y,Operational
+7713,13125,Nimoli Medical Centre,Nairobi,Dispensary,Private Enterprise (Institution),Ruaraka,,KASARANI,Y,Y,Operational
+7714,21026,Nimoli Medical Services,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Tassia,Tassia,EMBAKASI EAST,N,Y,Operational
+7733,13126,Njiru Dispensary,Nairobi,Dispensary,Local Authority,Njiru,Njiru,KASARANI,N,N,Operational
+7778,13127,Nsis Health Centre (Ruaraka),Nairobi,Health Centre,Ministry of Health,Ruaraka,,RUARAKA,N,N,Operational
+7804,13128,Nuffield Nursing Home,Nairobi,Nursing Home,Private Enterprise (Institution),Githurai,,KASARANI,N,N,Operational
+7808,17955,Nuru Lutheran Media Ministry,Nairobi,VCT Centre (Stand-Alone),Other Faith Based,Woodley,Woodley,KIBRA,N,N,Operational
+7868,19499,Nyalego Medical Clinic,Nairobi,Dispensary,Private Practice - Nurse / Midwife,Kawagware,kawagware,DAGORETTI NORTH,N,Y,Operational
+8002,13129,Nyina Wa Mumbi Dispensary,Nairobi,Dispensary,Other Faith Based,Kawangware,,DAGORETTI NORTH,N,N,Operational
+8016,13131,Nyumbani Diagnostic Laboratory and Medical Clinic,Nairobi,Medical Clinic,Non-Governmental Organizations,Karen,Karen,LANG'ATA,Y,Y,Operational
+8050,18436,Oasis Medical Clinic,Nairobi,Medical Clinic,Private Practice - Unspecified,Dandora,Dandora  41,KASARANI,N,Y,Operational
+8073,19492,Odeon Medical Centre (Nairobi),Nairobi,Medical Clinic,Private Practice - General Practitioner,Central,Central,STAREHE,N,Y,Operational
+8076,13132,Ofafa I Clinic,Nairobi,Medical Clinic,Local Authority,Maringo,Maringo,MAKADARA,N,N,Operational
+8092,13133,Ogwedhi Dispensary (Nairobi North),Nairobi,Dispensary,Private Enterprise (Institution),Ruaraka,,ROYSAMBU,N,N,Operational
+8145,18797,Olive Link Health Care,Nairobi,Health Centre,Non-Governmental Organizations,Viwandani,Viwandani,MAKADARA,Y,Y,Operational
+8218,20582,Oncology Reference Lab,Nairobi,Laboratory (Stand-alone),Ministry of Health,,,KIBRA,N,N,Operational
+8253,19465,Orient Medical Care,Nairobi,Dispensary,Private Practice - Nurse / Midwife,Waithaka,Waithaka,DAGORETTI SOUTH,N,Y,Operational
+8262,13135,Orthodox Dispensary,Nairobi,Dispensary,Christian Health Association of Kenya,Kawangware,,DAGORETTI SOUTH,N,N,Operational
+8318,13137,Padens Medicare Centre,Nairobi,Medical Clinic,Private Enterprise (Institution),Westlands,,WESTLANDS,N,N,Operational
+8338,13138,Pangani Dispensary,Nairobi,Dispensary,Local Authority,Kariokor,,STAREHE,N,N,Operational
+8341,18387,Paradise Medical Centre,Nairobi,Medical Clinic,Private Practice - General Practitioner,Dandora,Dandora  41,KASARANI,Y,Y,Operational
+8343,20701,Paragon Health Care Ltd,Nairobi,Medical Clinic,Private Practice - General Practitioner,,,DAGORETTI NORTH,N,Y,Operational
+8350,19424,Parkroad Dental Clinic (Ngara),Nairobi,Medical Clinic,Private Practice - Unspecified,Ngara ,Ngara West,STAREHE,N,N,Operational
+8351,13139,Parkroad Nursing Home (Nairobi),Nairobi,Nursing Home,Private Enterprise (Institution),Ngara,,STAREHE,Y,Y,Operational
+8357,12977,Patanisho Maternity and Nursing Home,Nairobi,Nursing Home,Private Enterprise (Institution),Kayole,Embakasi,EMBAKASI CENTRAL,Y,Y,Operational
+8366,12910,PCEA Dandora Clinic,Nairobi,Medical Clinic,Christian Health Association of Kenya,Dandora, Dandora ,KASARANI,N,N,Operational
+8373,19435,PCEA Kayole Parish Health Centre,Nairobi,Medical Clinic,Christian Health Association of Kenya,Kayole,Donholm,EMBAKASI CENTRAL,N,Y,Operational
+8380,19700,PCEA Pipeline Clinic,Nairobi,Medical Clinic,Christian Health Association of Kenya,MUkuru,Pipeline,EMBAKASI SOUTH,,,Operational
+8385,19289,Peace Medical Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,Ruaraka,babadogo,RUARAKA,N,Y,Operational
+8400,20449,Penta Medical Centre Umoja,Nairobi,Medical Clinic,Private Practice - Medical Specialist,Umoja II,Umoja II,EMBAKASI WEST,N,Y,Operational
+8401,19975,Pentapharm Limited,Nairobi,Medical Centre,Private Practice - General Practitioner,City Cenre,CBD,STAREHE,N,Y,Operational
+8410,19540,Pharmat Health Care,Nairobi,Dental Clinic,Private Practice - Unspecified,Central,Central,STAREHE,N,N,Operational
+8416,19483,Philis Medical Laboratory,Nairobi,Laboratory (Stand-alone),Private Practice - Unspecified,Central,Central,STAREHE,N,N,Operational
+8426,13142,Pine Medical Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Kayole,Kayole Corner,EMBAKASI CENTRAL,Y,Y,Operational
+8434,13143,Pipeline Medical Health Services,Nairobi,Medical Clinic,Private Practice - Clinical Officer,Mukuru Kwanjega,Mukuru Kwa Njega,EMBAKASI SOUTH,Y,Y,Operational
+8435,12978,Pipeline Nursing Home,Nairobi,Nursing Home,Private Enterprise (Institution),Mukuru,Kwa Njenga,EMBAKASI SOUTH,Y,Y,Operational
+8438,20653,Planet Clinic Ltd,Nairobi,Medical Centre,Private Practice - General Practitioner,City Centre,City Centre,STAREHE,N,Y,Operational
+8443,19353,Plaza X-Ray Services (Re-Insurance Plaza-Nairobi),Nairobi,Radiology Unit,Private Enterprise (Institution),Central,Central,STAREHE,N,Y,Operational
+8447,19878,Police Central Workshop Dispensary,Nairobi,Dispensary,Armed Forces,Viwandani,Viwandani,STAREHE,N,N,Operational
+8455,13145,Pona Mat Dispensary,Nairobi,Dispensary,Private Enterprise (Institution),Kahawa,,RUARAKA,N,N,Operational
+8475,13146,Port Health Dispensary (Langata),Nairobi,Dispensary,Ministry of Health,Mugumoini,Mugumoini,LANG'ATA,N,Y,Operational
+8483,19901,Positive Partner Network VCT,Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Central,Central,STAREHE,N,Y,Operational
+8485,20067,Post Bank Staff Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,City Cenre,CBD,STAREHE,N,Y,Operational
+8491,17996,Precious Life Medical Clinic Ruai,Nairobi,Medical Clinic,Private Practice - General Practitioner,Ruai,Ruai Bypass,EMBAKASI NORTH,N,Y,Operational
+8493,19498,Premier Laboratory (Nairobi),Nairobi,Laboratory (Stand-alone),Private Practice - Unspecified,Central,Central,STAREHE,N,Y,Operational
+8497,18744,Premium Health Services,Nairobi,Dispensary,Private Practice - Medical Specialist,Kariobangi,Kariobangi,EMBAKASI NORTH,N,Y,Operational
+8499,18556,Prescort Dispensary,Nairobi,Dispensary,Ministry of Health,Kasarani,Kasarani,RUARAKA,N,Y,Operational
+8501,19275,Prestige Health Centre (Zimerman),Nairobi,Medical Clinic,Private Practice - General Practitioner,Githurai,zimmerman,ROYSAMBU,N,Y,Operational
+8503,20527,Prestige Medicare Clinic Njiru,Nairobi,Medical Clinic,Private Practice - Clinical Officer,Njiru,Njiru,KASARANI,N,Y,Operational
+8509,13147,Prime Health Services Dispensary,Nairobi,Dispensary,Private Enterprise (Institution),Kahawa,Kahawa,ROYSAMBU,Y,Y,Operational
+8512,19440,Primed Medical Centre,Nairobi,Medical Clinic,Private Practice - Clinical Officer,Komarock,Komarock,EMBAKASI CENTRAL,Y,Y,Operational
+8513,19451,Primed Medical Services Komarock,Nairobi,Medical Clinic,Private Practice - Unspecified,komarock,,EMBAKASI CENTRAL,Y,Y,Operational
+8519,20163,Proact services,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Kahawa West,Kahawa West,ROYSAMBU,Y,Y,Operational
+8520,19506,Professional Diagnostic Centre (Nairobi),Nairobi,Laboratory (Stand-alone),Private Practice - Unspecified,Central,Central,STAREHE,N,Y,Operational
+8521,19290,Promise Medical Services,Nairobi,Medical Clinic,Private Practice - General Practitioner,kariobangi,kariobangi,EMBAKASI NORTH,N,Y,Operational
+8522,13149,Provide Inter Math Dispensary,Nairobi,Dispensary,Private Enterprise (Institution),Ruaraka,,RUARAKA,N,N,Operational
+8523,13148,Provide Internatinal Clinic (Dandora),Nairobi,Medical Clinic,Non-Governmental Organizations,Dandora, Dandora ,KASARANI,N,Y,Operational
+8524,13151,Provide International Clinic (Kayole),Nairobi,Health Centre,Non-Governmental Organizations,Kayole,Komarock,EMBAKASI CENTRAL,Y,Y,Operational
+8525,19447,Provide International Hospital Mukuru,Nairobi,Health Centre,Non-Governmental Organizations,mukuru,,EMBAKASI SOUTH,Y,Y,Operational
+8526,13150,Provide International Korogocho,Nairobi,Other Hospital,Other Faith Based,Kasarani,,RUARAKA,N,N,Operational
+8527,12971,Provide International Mutindwa Umoja Clinic,Nairobi,Dispensary,Non-Governmental Organizations,Umoja,Umoja,EMBAKASI WEST,N,N,Operational
+8530,19521,Providence Whole Care,Nairobi,Dispensary,Private Enterprise (Institution),Riruta,Ngando,DAGORETTI SOUTH,N,N,Operational
+8533,18001,Prudent Medical Clinic Kariobangi,Nairobi,Medical Clinic,Private Practice - General Practitioner,Kariobangi South,Saika,EMBAKASI WEST,Y,Y,Operational
+8537,13153,PSTC Health Centre,Nairobi,Health Centre,Ministry of Health,Ruaraka,,ROYSAMBU,N,N,Operational
+8541,13154,Pumwani Clinic,Nairobi,Dispensary,Local Authority,Pumwani,,KAMUKUNJI,N,N,Operational
+8543,13155,Pumwani Majengo Dispensary,Nairobi,Dispensary,Local Authority,Pumwani Majengo,Pumwani,KAMUKUNJI,N,N,Operational
+8544,13156,Pumwani Maternity Hospital,Nairobi,Other Hospital,Local Authority,Pumwani,Pumwani,KAMUKUNJI,Y,Y,Operational
+8545,13157,Pumwani Maternity VCT Centre,Nairobi,VCT Centre (Stand-Alone),Local Authority,Pumwani,,KAMUKUNJI,N,N,Operational
+8562,18757,R - Care Health Clinic,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Riruta,Ngando,DAGORETTI SOUTH,N,Y,Operational
+8574,19370,Radiant Hosp Kasarani,Nairobi,Medical Clinic,Private Practice - General Practitioner,kasarani,kasarani,ROYSAMBU,N,Y,Operational
+8575,13158,Radiant Pangani Hospital,Nairobi,Other Hospital,Private Enterprise (Institution),Kariokor,,STAREHE,N,N,Operational
+8583,19487,Rafiki Medical Clinic (Westlands),Nairobi,Medical Clinic,Private Practice - Unspecified,Kangemi,,WESTLANDS,Y,Y,Operational
+8589,20716,Raila Community Clinic,Nairobi,Dispensary,Ministry of Health,,,KIBRA,N,Y,Operational
+8591,13168,Railway Training Institute Dispensary South B,Nairobi,Dispensary,Academic (if registered),Mukuru Nyayo,Nairobi South,STAREHE,N,N,Operational
+8594,19213,Rainbow Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Nairobi West,Nairobi West,LANG'ATA,N,Y,Operational
+8599,21272,Rama Medical Clinic,Nairobi,Medical Clinic,Private Practice - Clinical Officer,Kayole,Kayole,EMBAKASI CENTRAL,Y,Y,Operational
+8625,19535,Rapha Medical Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,Riruta,Satelite,DAGORETTI NORTH,N,Y,Operational
+8627,19474,Rapha Mission Clinic,Nairobi,Medical Clinic,Christian Health Association of Kenya,Bahati,bahati,KAMUKUNJI,Y,Y,Operational
+8639,13159,Ray of Hope Health Centre,Nairobi,Health Centre,Private Enterprise (Institution),Kawangware,,DAGORETTI NORTH,Y,Y,Operational
+8643,17998,Rays International Clinic Kariobangi,Nairobi,Medical Clinic,Community,Kariobangi South,Kariobangi South,EMBAKASI WEST,N,Y,Operational
+8651,19616,Recovery Medical Clinic (Kariobangi South),Nairobi,Medical Clinic,Private Practice - General Practitioner,Kariobangi south,Kwa mbao,EMBAKASI WEST,N,Y,Operational
+8655,13160,Redemeed Health Centre,Nairobi,Health Centre,Ministry of Health,Kahawa,,RUARAKA,N,N,Operational
+8667,18668,Reinha Rosary Medical Clinic (Githunguri),Nairobi,Medical Clinic,Kenya Episcopal Conference-Catholic Secretariat,Ruai,Githunguri,EMBAKASI WEST,N,Y,Operational
+8670,21107,Reliable Medical Health Services,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Umoja,Donholm,EMBAKASI WEST,Y,Y,Operational
+8676,19620,Remla Medical Clinic (Dandora),Nairobi,Medical Clinic,Private Practice - General Practitioner,Dandora,Dandora phase 4,KASARANI,N,Y,Operational
+8682,13173,Reuben Mukuru Health Centre,Nairobi,Health Centre,Kenya Episcopal Conference-Catholic Secretariat,Imara Daima,Imara Daima,EMBAKASI SOUTH,N,N,Operational
+8686,16168,Revival Home Based Care Clinic,Nairobi,Health Centre,Other Faith Based,Sarang'ombe,Soweto East,KIBRA,Y,Y,Operational
+8687,13162,Rgc Jipe Moyo Dispensary,Nairobi,Dispensary,Christian Health Association of Kenya,Waithaka,,DAGORETTI NORTH,N,N,Operational
+8692,13163,Rhodes Chest Clinic,Nairobi,Dispensary,Local Authority,Central Business District,,STAREHE,N,N,Operational
+8716,19544,Rimaal Medical Laboratory,Nairobi,Laboratory (Stand-alone),Private Practice - Unspecified,Central,Central,STAREHE,N,Y,Operational
+8718,19475,Rinah Health Consultants,Nairobi,Medical Clinic,Private Practice - Medical Specialist,Central,c,STAREHE,N,Y,Operational
+8728,13165,Riruta Health Centre,Nairobi,Dispensary,Local Authority,Kawangware,Kawangware,DAGORETTI NORTH,N,N,Operational
+8748,19642,Roma Medical Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Eastleigh North,Eastleigh North,KAMUKUNJI,N,Y,Operational
+8750,17861,Romieva Medical Centre,Nairobi,Medical Clinic,Non-Governmental Organizations,Mihan'go,Utawala,EMBAKASI EAST,Y,Y,Operational
+8751,19456,Romieva Medical Centre Tassia,Nairobi,Medical Clinic,Non-Governmental Organizations,Embakasi,Tassia,EMBAKASI WEST,N,Y,Operational
+8769,18992,Rosade Medical Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,Sarang'ombe,Kianda,KIBRA,N,Y,Operational
+8770,19401,Rosadett Medical Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,Kariobangi,kariobangi,KASARANI,N,Y,Operational
+8781,17938,Round About Medical Centre,Nairobi,Health Centre,Private Enterprise (Institution),Githurai,Githurai,ROYSAMBU,Y,Y,Operational
+8782,13167,Round About Medical Dispensary,Nairobi,Dispensary,Private Enterprise (Institution),Ruaraka,,RUARAKA,N,N,Operational
+8786,18988,Royal Clinic-Kibera,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Kibera,Lindi,KIBRA,N,Y,Operational
+8795,19382,Royolk Medical Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,Githurai,zimmerman,ROYSAMBU,N,Y,Operational
+8796,18221,Ruai (SDA) Clinic,Nairobi,Medical Clinic,Other Faith Based,Ruai,Ruai,KASARANI,N,Y,Operational
+8797,13170,Ruai Community Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Ruai,Ruai,KASARANI,N,N,Operational
+8798,13171,Ruai Health Centre,Nairobi,Health Centre,Local Authority,Ruai,Ruai,KASARANI,N,N,Operational
+8800,13172,Ruaraka Clinic,Nairobi,Dispensary,Ministry of Health,Kasarani,,RUARAKA,N,N,Operational
+8801,18485,Ruaraka Uhai Neema Hospital,Nairobi,Other Hospital,Kenya Episcopal Conference-Catholic Secretariat,Ruaraka,Babadogo,RUARAKA,Y,Y,Operational
+8829,13174,Rural Aid VCT,Nairobi,VCT Centre (Stand-Alone),Community,Central Business District,,STAREHE,N,N,Operational
+8870,20231,SACODEN VCT Center,Nairobi,Medical Clinic,Non-Governmental Organizations,Kibra,Makina,KIBRA,N,Y,Operational
+8891,19640,Sahal Medical Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Eastleigh North,Eastleigh North,KAMUKUNJI,N,Y,Operational
+8894,18386,Saika Medical Centre,Nairobi,Medical Clinic,Private Practice - General Practitioner,Njiru,Saika,KASARANI,N,N,Operational
+8915,13175,Salama Nursing Home,Nairobi,Nursing Home,Private Practice - General Practitioner,Eastleigh Section I,,KAMUKUNJI,Y,Y,Operational
+8928,13176,Samaritan Medical Services (Dandora),Nairobi,Nursing Home,Non-Governmental Organizations,Dandora,Dandora,KASARANI,Y,Y,Operational
+8941,20235,Sam-link medical centre,Nairobi,Medical Clinic,Private Practice - Clinical Officer,Kasarani,kasarani,KASARANI,N,Y,Operational
+8959,19379,Sanitas Lotus Medical Centre,Nairobi,Medical Clinic,Private Practice - General Practitioner,Githurai,zimmerman,ROYSAMBU,N,Y,Operational
+8964,19445,Santi Meridian Health Care,Nairobi,Medical Clinic,Private Practice - General Practitioner,kayole,,EMBAKASI CENTRAL,Y,Y,Operational
+8966,13178,Saola Maternity and Nursing Home,Nairobi,Maternity Home,Private Enterprise (Institution),Laini Saba,Laini saba,KIBRA,Y,Y,Operational
+8979,18796,Sasa Centre (Makadara),Nairobi,Medical Clinic,Non-Governmental Organizations,,,MAKADARA,N,N,Operational
+8982,19311,Sasa Centre-Ngara,Nairobi,Medical Clinic,Non-Governmental Organizations,Ngara ,Ngara East,STAREHE,N,N,Operational
+8999,19449,Scion Healthcare Ltd Clinic,Nairobi,Medical Clinic,Private Practice - Unspecified,Kwa Njenga,Kwa Njenga,EMBAKASI SOUTH,Y,Y,Operational
+9000,18593,SDA Health Services Likoni Road Clinic,Nairobi,Medical Clinic,Christian Health Association of Kenya,Viwandani,Landmawe,MAKADARA,N,Y,Operational
+9021,20304,Selma medical clinic,Nairobi,Medical Clinic,Private Practice - Unspecified,Githurai,Githurai,ROYSAMBU,N,Y,Operational
+9024,18662,Senate Health Services,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Dandora phase II,Dandora phase II,KASARANI,N,Y,Operational
+9029,13179,Senye Medical Clinic,Nairobi,Maternity Home,Private Enterprise (Institution),Sarang'Ombe,Gatwekera,KIBRA,Y,Y,Operational
+9056,13180,Sex Workers Operation Project (Swop),Nairobi,Dispensary,Non-Governmental Organizations,Central Business District,,STAREHE,N,N,Operational
+9057,18176,Sex Workers Outreach Program (Lang'ata),Nairobi,Medical Clinic,Non-Governmental Organizations,Mugumoini,Southlands Estate,LANG'ATA,N,N,Operational
+9058,13181,SGRR Medical Clinic,Nairobi,Medical Clinic,Other Faith Based,Nairobi West,South C,LANG'ATA,N,N,Operational
+9059,13182,Shaam Nursing Home,Nairobi,Nursing Home,Private Enterprise (Institution),Eastleigh Section I,,KAMUKUNJI,N,N,Operational
+9089,19400,Sharifik Medical Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,Roysambu,Roysambu,ROYSAMBU,Y,Y,Operational
+9093,13183,Shauri Moyo Baptist VCT Centre,Nairobi,VCT Centre (Stand-Alone),Christian Health Association of Kenya,Shauri Moyo,,KAMUKUNJI,N,N,Operational
+9094,13184,Shauri Moyo Clinic,Nairobi,Medical Clinic,Local Authority,Kamukunji,Shauri Moyo,KAMUKUNJI,N,N,Operational
+9095,19636,Shauri Moyo Health Services,Nairobi,Medical Clinic,Private Enterprise (Institution),Shauri Moyo,Shauri Moyo,KAMUKUNJI,N,Y,Operational
+9097,18471,Shekina Medical Clinic,Nairobi,Medical Clinic,Private Practice - Clinical Officer,kasarani,kasarani,KASARANI,N,Y,Operational
+9101,13185,Shepherds Medical Clinic Maringo,Nairobi,Medical Clinic,Private Enterprise (Institution),Hamsa,Ofafa Maringo,MAKADARA,Y,Y,Operational
+9130,19371,Shiply Medical Centre & Lab,Nairobi,Medical Clinic,Private Practice - General Practitioner,kasarani,kasarani,KASARANI,N,Y,Operational
+9144,17389,Shree Cutchhi Leva Samaj Medical Clinic,Nairobi,Medical Clinic,Non-Governmental Organizations,Nairobi West,Nairobi West,LANG'ATA,N,Y,Operational
+9184,13186,Silanga (MSF Belgium) Dispensary,Nairobi,Dispensary,Non-Governmental Organizations,Laini Saba,Silanga,KIBRA,N,N,Operational
+9185,20622,Silanga Community Clinic,Nairobi,Dispensary,Ministry of Health,Laini Saba,Silanga,KIBRA,N,N,Operational
+9199,20400,Silverdine Medical Centre(lancet hse),Nairobi,Medical Clinic,Private Practice - Medical Specialist,Kilimani,Kilimani,DAGORETTI NORTH,N,Y,Operational
+9223,13187,Single Mothers Association of Kenya (Smak),Nairobi,VCT Centre (Stand-Alone),Community,Central Business District,,STAREHE,N,N,Operational
+9263,18005,South B Hospital Ltd,Nairobi,Nursing Home,Private Practice - General Practitioner,Mukuru Nyayo,Nairobi South,STAREHE,Y,N,Operational
+9264,13144,South B Police Band Dispensary,Nairobi,Dispensary,Other Public Institution,Mukuru Nyayo,Nairobi South,STAREHE,N,N,Operational
+9269,17390,Southern Health Care,Nairobi,Medical Clinic,Private Practice - General Practitioner,Nairobi West,South C,LANG'ATA,N,Y,Operational
+9271,13017,Soweto Kayole PHC Health Centre,Nairobi,Health Centre,Non-Governmental Organizations,Kayole,Soweto,EMBAKASI CENTRAL,N,N,Operational
+9273,20627,Soweto West Community Clinic,Nairobi,Dispensary,Ministry of Health,Sarang'ombe,Gatwekera,KIBRA,N,N,Operational
+9283,13193,Special Treatment Clinic,Nairobi,Dispensary,Local Authority,City Square,,STAREHE,N,N,Operational
+9287,20054,Springs of Life Lutheran Dispensary,Nairobi,Dispensary,Christian Health Association of Kenya,Sarang'ombe,Olympic,KIBRA,N,Y,Operational
+9290,19547,Srisathya Sai Medical Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),,,WESTLANDS,Y,Y,Operational
+9297,18219,St Alice (EDARP) Dandora,Nairobi,Medical Clinic,Kenya Episcopal Conference-Catholic Secretariat,Dandora,Dandora,KASARANI,N,N,Operational
+9298,18495,St Aloysius Gonzaga School Dispensary,Nairobi,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,Mugumoini,Ngei 1 Estate,LANG'ATA,N,N,Operational
+9306,17876,St Angela Merici Health Centre (Kingeero),Nairobi,Health Centre,Kenya Episcopal Conference-Catholic Secretariat,Kingeero,Kingeero,WESTLANDS,Y,Y,Operational
+9319,13196,St Annes Medical Health Centre,Nairobi,Health Centre,Private Enterprise (Institution),Kahawa,,ROYSAMBU,N,N,Operational
+9321,18756,St Anns Medical Centre,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Riruta,Ngando,DAGORETTI SOUTH,N,Y,Operational
+9325,20080,St Anselmo Medical Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,Umoja ,Umoja Inner Core,EMBAKASI WEST,N,Y,Operational
+9336,17723,St Barkita Dispensary Utawala,Nairobi,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,Embakasi,Utawala,EMBAKASI EAST,N,N,Operational
+9339,13198,St Begson Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Kayole,Embakasi,EMBAKASI CENTRAL,N,N,Operational
+9342,13199,St Bridget's Mother & Child,Nairobi,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,Kariokor,Ziwani,STAREHE,N,N,Operational
+9350,13200,St Catherine's Health Centre,Nairobi,Health Centre,Private Enterprise (Institution),Kawangware,,DAGORETTI NORTH,Y,Y,Operational
+9359,18465,St Clare Medical Clinic,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Embakasi,Pipeline,EMBAKASI SOUTH,Y,Y,Operational
+9364,19896,St Eliza Medical Clinic,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Laini saba,Laini Saba,LANG'ATA,N,Y,Operational
+9372,13201,St Florence Medical Care Health Centre,Nairobi,Medical Clinic,Private Enterprise (Institution),Kangemi,Mountain View,WESTLANDS,N,N,Operational
+9373,13202,St Francis Com Hospital,Nairobi,Other Hospital,Private Enterprise (Institution),Githurai,,KASARANI,N,N,Operational
+9374,17943,St Francis Community Hospital (Kasarani),Nairobi,Other Hospital,Kenya Episcopal Conference-Catholic Secretariat,Kasarani,Kasarani,KASARANI,Y,Y,Operational
+9377,13203,St Francis Health Centre (Nairobi North),Nairobi,Health Centre,Other Faith Based,Githurai,,ROYSAMBU,N,N,Operational
+9397,19299,St James Medical Centre,Nairobi,Medical Clinic,Private Practice - General Practitioner,Ruaraka,Jagwani,ROYSAMBU,N,Y,Operational
+9398,19033,St James Medical Clinic,Nairobi,Medical Clinic,Private Practice - Clinical Officer,Sarang'ombe,Gatwekera,KIBRA,N,Y,Operational
+9405,13205,St John Hospital,Nairobi,Other Hospital,Private Enterprise (Institution),Roysambu,,ROYSAMBU,Y,Y,Operational
+9407,19448,St John Medical Centre,Nairobi,Medical Clinic,Private Practice - Unspecified,,,EMBAKASI CENTRAL,Y,Y,Operational
+9414,13206,St Johns Ambulance,Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Central Business District,,STAREHE,N,N,Operational
+9416,18408,St John's Community Centre,Nairobi,Medical Clinic,Other Faith Based,Pumwani,Pumwani,KAMUKUNJI,N,N,Operational
+9417,18222,St John's Community Clinic Njiru,Nairobi,Medical Clinic,Non-Governmental Organizations,Njiru,Njiru,KASARANI,N,Y,Operational
+9426,13207,St Joseph (EDARP) Clinic,Nairobi,Medical Clinic,Kenya Episcopal Conference-Catholic Secretariat,Shauri Moyo,,KAMUKUNJI,N,N,Operational
+9442,13208,St Joseph Mukasa Dispensary,Nairobi,Dispensary,Other Faith Based,Kahawa,Kahawa west,ROYSAMBU,N,N,Operational
+9444,17933,St Joseph Nursing Home,Nairobi,Nursing Home,Kenya Episcopal Conference-Catholic Secretariat,Eastleigh North,Eastleigh North,KAMUKUNJI,Y,Y,Operational
+9446,13209,St Joseph W Dispensary (Westlands),Nairobi,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,Uthiru,,WESTLANDS,N,N,Operational
+9448,13210,St Joseph's Dispensary (Dagoretti),Nairobi,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,Riruta,,DAGORETTI SOUTH,N,N,Operational
+9458,13213,St Lukes (Kona) Health Centre,Nairobi,Health Centre,Private Enterprise (Institution),Riruta,,DAGORETTI SOUTH,N,N,Operational
+9465,17391,St Mac's Hospital,Nairobi,Dispensary,Community,Laini Saba,Laini Saba,KIBRA,Y,Y,Operational
+9471,13214,St Mark Medical Clinic (Nairobi East),Nairobi,Medical Clinic,Private Enterprise (Institution),Dandora,Dandora,KASARANI,N,N,Operational
+9497,13217,St Mary's Health Centre,Nairobi,Health Centre,Private Enterprise (Institution),Korogocho,,ROYSAMBU,N,N,Operational
+9499,17940,St Mary's Health Services,Nairobi,Health Centre,Private Practice - Unspecified,Githurai,Githurai,ROYSAMBU,Y,Y,Operational
+9505,13216,St Mary's Medical Clinic,Nairobi,Maternity Home,Private Enterprise (Institution),Kibera,Makina,KIBRA,Y,Y,Operational
+9506,13215,St Mary's Medical Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Umoja ,Umoja ,EMBAKASI CENTRAL,N,N,Operational
+9513,13218,St Mary's Mission Hospital,Nairobi,Other Hospital,Kenya Episcopal Conference-Catholic Secretariat,Mugumoini,Mugumoini,LANG'ATA,N,N,Operational
+9522,19438,St Maurice Medical Services,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Umoja,Umoja Two,EMBAKASI CENTRAL,N,Y,Operational
+9525,13219,St Michael Clinic,Nairobi,Dispensary,Private Enterprise (Institution),Golfcourse,,DAGORETTI SOUTH,N,N,Operational
+9526,19332,St Michael Community Nursing Home,Nairobi,Medical Clinic,Private Practice - General Practitioner,kahawa,kahawa,ROYSAMBU,Y,Y,Operational
+9549,13222,St Patrick Health Care Centre,Nairobi,Health Centre,Private Enterprise (Institution),Kayole,Kayole,EMBAKASI CENTRAL,Y,Y,Operational
+9550,19297,St Patrick Medical Centre,Nairobi,Medical Clinic,Private Practice - General Practitioner,Ruaraka,Babadogo,RUARAKA,N,Y,Operational
+9564,17392,St Pery's Medical Clinic,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Kibera,Makina,KIBRA,N,Y,Operational
+9566,13223,St Peter Dispensary,Nairobi,Dispensary,Private Enterprise (Institution),Kasarani,,KASARANI,N,N,Operational
+9580,13224,St Philips Health Centre,Nairobi,Health Centre,Private Enterprise (Institution),Kariobangi,,ROYSAMBU,N,N,Operational
+9586,17683,St Raphael's Clinic,Nairobi,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,Kayole,Mihang'o,EMBAKASI EAST,N,N,Operational
+9595,19380,St Teresa Medical Clinic ( Zimmerman),Nairobi,Medical Clinic,Private Practice - General Practitioner,Githurai,zimmerman,ROYSAMBU,N,Y,Operational
+9598,13227,St Teresa's Health Centre,Nairobi,Health Centre,Private Enterprise (Institution),Kawangware,,DAGORETTI NORTH,N,N,Operational
+9599,13226,St Teresa's Health Centre (Nairobi North),Nairobi,Health Centre,Private Enterprise (Institution),Eastleigh Section Iii,,KAMUKUNJI,N,N,Operational
+9600,13225,St Teresa's Parish Dispensary,Nairobi,Dispensary,Other Faith Based,Eastleigh Section I,,KAMUKUNJI,N,Y,Operational
+9611,13228,St Thomas Medical Clinic,Nairobi,Health Centre,Private Practice - General Practitioner,Umoja,Umoja,EMBAKASI CENTRAL,Y,Y,Operational
+9619,18409,St Veronica EDARP Clinic,Nairobi,Medical Clinic,Other Faith Based,Eastleigh South,,KAMUKUNJI,N,N,Operational
+9621,13230,St Vincent Catholic Clinic,Nairobi,Medical Clinic,Other Faith Based,Eastleigh North,Eastleigh North,KAMUKUNJI,N,N,Operational
+9623,13229,St Vincent Clinic (Nairobi East),Nairobi,Medical Clinic,Private Enterprise (Institution),Ruai,Ruai,KASARANI,N,N,Operational
+9633,13221,St. Odilia's Dispensary,Nairobi,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,Karen,Karen,LANG'ATA,N,Y,Operational
+9638,20216,St.Catherine Catholic Church VCT,Nairobi,VCT Centre (Stand-Alone),Kenya Episcopal Conference-Catholic Secretariat,Nairobi West,South C,LANG'ATA,N,Y,Operational
+9648,20574,Suba Medical Centre,Nairobi,Medical Clinic,Private Practice - Unspecified,Kayole North,Kayole corner,EMBAKASI CENTRAL,N,Y,Operational
+9655,19381,Success Medical Services,Nairobi,Medical Clinic,Private Practice - General Practitioner,Roysambu,zimmerman,ROYSAMBU,N,Y,Operational
+9680,18281,Sunbeam Medical Centre,Nairobi,Dispensary,Private Enterprise (Institution),kangemi,,WESTLANDS,Y,Y,Operational
+9685,20504,Sunrise City Medical Centre,Nairobi,Medical Clinic,Private Practice - Clinical Officer,Huruma,Ngei 2,MATHARE,N,Y,Operational
+9691,19351,Sunshine Medical & Diagnostic Centre (Nairobi),Nairobi,Medical Clinic,Private Practice - General Practitioner,Kariokor,Kariokor,STAREHE,N,Y,Operational
+9692,19530,Sunshine Medical Centre,Nairobi,Medical Clinic,Private Practice - General Practitioner,,,WESTLANDS,Y,Y,Operational
+9697,18438,Sunton CFW Clinic,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,kasarani,kasarani,KASARANI,N,Y,Operational
+9702,13233,Supkem (Liverpool),Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Central Business District,,STAREHE,N,N,Operational
+9703,20402,Support For Addiction Prevention & Treatment In Africa,Nairobi,Medical Centre,Non-Governmental Organizations,Pangani,Pangani,STAREHE,N,Y,Operational
+9704,19355,Supreme Health Care (Ktda House-Nairobi),Nairobi,Medical Clinic,Private Practice - General Practitioner,Central,Central,STAREHE,N,N,Operational
+9706,19637,Sure Drug Medical Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),,,KAMUKUNJI,N,Y,Operational
+9712,17686,Susamed Medical Clinic,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Kayole,Kayole,EMBAKASI CENTRAL,N,Y,Operational
+9719,19394,Swop Clinic,Nairobi,Medical Clinic,Non-Governmental Organizations,Central,Central,STAREHE,N,N,Operational
+9720,19719,Swop Kawangware,Nairobi,Medical Clinic,Non-Governmental Organizations,Kawangware,Kawangware,DAGORETTI SOUTH,N,Y,Operational
+9721,19271,Swop Korogocho,Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,kariobangi,kariobangi,RUARAKA,N,N,Operational
+9722,19429,Swop Outreach Project Clinic,Nairobi,Medical Clinic,Non-Governmental Organizations,Savannah,Donholm,EMBAKASI WEST,Y,Y,Operational
+9723,18896,Swop Thika Road,Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Roysambu,Roysambu,ROYSAMBU,N,N,Operational
+9739,13234,Tabitha Medical Clinic,Nairobi,Medical Clinic,Non-Governmental Organizations,Sarang'Ombe,Gatwekera,KIBRA,N,N,Operational
+9746,17969,Taiba Medical Centre,Nairobi,Health Centre,Private Enterprise (Institution),Ngara East,,STAREHE,Y,Y,Operational
+9806,19283,Tazama Dentel Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,Githurai,Githurai,ROYSAMBU,N,Y,Operational
+9807,20584,TB Central Reference Lab,Nairobi,Laboratory (Stand-alone),Ministry of Health,,,KIBRA,N,N,Operational
+9813,13235,Teachers Service Commission,Nairobi,VCT Centre (Stand-Alone),Other Public Institution,Central Business District,,STAREHE,N,N,Operational
+9816,20540,Technical university of Kenya Student/Staff Clinic,Nairobi,Medical Clinic,Other Public Institution,City Centre,city centre,STAREHE,N,Y,Operational
+9822,13236,Tena (PCEA) Clinic,Nairobi,Dispensary,Christian Health Association of Kenya,Umoja,Savanna,EMBAKASI WEST,N,N,Operational
+9834,19624,Terminus Medical Clinic (Dandora),Nairobi,Medical Clinic,Private Practice - General Practitioner,Dandora,Dandora phase 4,KASARANI,N,Y,Operational
+9854,20103,The Savannah Health Services Ltd,Nairobi,Medical Centre,Private Practice - General Practitioner,City Centre,Central,STAREHE,N,Y,Operational
+9856,21281,The Zambezi Hospital Limited,Nairobi,Sub-District Hospital,Private Enterprise (Institution),Mugumoini,South C,LANG'ATA,Y,Y,Operational
+9870,17950,Thika Road Health Services Ltd (Kasarani),Nairobi,Dispensary,Private Enterprise (Institution),Kasarani,Kasarani,ROYSAMBU,N,Y,Operational
+9898,19298,Tibaland Chemistry & Lab,Nairobi,Medical Clinic,Private Practice - General Practitioner,Ruaraka,Utalii,RUARAKA,N,Y,Operational
+9969,18544,Touch of Health - Well-Being Centre,Nairobi,Health Programme,Private Practice - Unspecified,Kilimani,Kilimani,DAGORETTI NORTH,N,Y,Operational
+9975,13237,Transcom Medical Services,Nairobi,Dispensary,Private Enterprise (Institution),Central Business District,,STAREHE,N,N,Operational
+9985,13238,Trinity Medical Care Health Centre,Nairobi,Health Centre,Private Enterprise (Institution),Riruta,,DAGORETTI NORTH,N,N,Operational
+9988,19444,Trocare Medical Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,,,EMBAKASI CENTRAL,Y,Y,Operational
+9991,18335,True Light Medical Clinic,Nairobi,Medical Clinic,Private Practice - Medical Specialist,Kayole,Kayole Corner,EMBAKASI CENTRAL,Y,Y,Operational
+10018,20190,Tumaini Africa,Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Ruthimitu,Ruthimitu,DAGORETTI SOUTH,N,N,Operational
+10035,17385,Tumaini Medical Centre,Nairobi,Medical Clinic,Private Practice - Clinical Officer,Sarang'ombe,Sarang'ombe,KIBRA,N,Y,Operational
+10066,19553,Tusker Dental Laboratory Services & Laboratory,Nairobi,Dental Clinic,Private Practice - Unspecified,Central,Central,STAREHE,N,Y,Operational
+10067,19555,Tusker House Medical Centre,Nairobi,Medical Clinic,Private Practice - General Practitioner,Central,Central,STAREHE,N,Y,Operational
+10096,13239,Uhuru Camp Dispensary (O P Admin Police),Nairobi,Dispensary,Armed Forces,Nairobi West,Nairobi west,LANG'ATA,N,N,Operational
+10098,17404,Uhuru Presitige Health Care,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Jericho Lumumba,Uhuru,MAKADARA,N,Y,Operational
+10118,19607,Umma CBO,Nairobi,Medical Centre,Humanitarian Agencies,,,KAMUKUNJI,Y,Y,Operational
+10119,13240,Umoja Health Centre,Nairobi,Health Centre,Local Authority,Umoja,Umoja,EMBAKASI WEST,N,N,Operational
+10120,13241,Umoja Hospital,Nairobi,Other Hospital,Private Enterprise (Institution),Umoja,Umoja,EMBAKASI WEST,N,N,Operational
+10121,20187,Umoja III Medical Centre(Njiru),Nairobi,Medical Clinic,Private Practice - Clinical Officer,Kariobangi South,Umoja III,EMBAKASI WEST,N,Y,Operational
+10127,18233,Umoja VCT Centre Stand Alone,Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Umoja,Umja Innercore,EMBAKASI WEST,N,N,Operational
+10135,19948,United States International University VCT,Nairobi,VCT Centre (Stand-Alone),Private Practice - Unspecified,Roysambu,Roysambu,ROYSAMBU,N,N,Operational
+10136,19399,Unity Health Care,Nairobi,Medical Clinic,Private Practice - General Practitioner,Kahawa,Kahawa,ROYSAMBU,N,Y,Operational
+10138,18334,Unity Nursing Home,Nairobi,Nursing Home,Private Practice - General Practitioner,Umoja ,Umoja II,EMBAKASI WEST,Y,Y,Operational
+10145,13242,University of Nairobi Dispensary,Nairobi,Dispensary,Parastatal,Kilimani,,DAGORETTI NORTH,N,N,Operational
+10146,19527,University of Nairobi Health Services,Nairobi,Medical Clinic,Other Public Institution,Kilimani,,DAGORETTI NORTH,Y,Y,Operational
+10147,20098,University of Nairobi Institute of Tropical and Infections Disease (UNITID),Nairobi,Training Institution in Health (Stand-alone),Parastatal,KHN,,KIBRA,N,N,Operational
+10155,19285,Unmet Health Foundation,Nairobi,Medical Clinic,Private Practice - General Practitioner,Ruaraka,Utalii,RUARAKA,N,Y,Operational
+10161,19476,Upendo Clinic Makadara,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Makadara,Hamza,MAKADARA,N,N,Operational
+10162,13243,Upendo Dispensary,Nairobi,Dispensary,Ministry of Health,Mathare,,MATHARE,N,N,Operational
+10165,19375,Upendo Medical Centre (Githurai 44),Nairobi,Medical Clinic,Private Practice - General Practitioner,Githurai,Githurai,ROYSAMBU,N,Y,Operational
+10186,13245,Ushirika Medical Clinic,Nairobi,Health Centre,Community,Sarang'Ombe,Kianda,KIBRA,Y,Y,Operational
+10195,18464,Utawala Estate Health Centre,Nairobi,Health Centre,Private Practice - Clinical Officer,Utawala,Utawala,EMBAKASI EAST,Y,Y,Operational
+10197,18628,Uthiru Muthua Dispensary,Nairobi,Dispensary,Ministry of Health,Uthiru,,DAGORETTI SOUTH,N,N,Operational
+10210,13246,Uzima Dispensary,Nairobi,Dispensary,Private Enterprise (Institution),Kariobangi,,ROYSAMBU,N,N,Operational
+10226,17956,Uzima VCT Centre,Nairobi,VCT Centre (Stand-Alone),Non-Governmental Organizations,Woodley,,DAGORETTI SOUTH,N,N,Operational
+10231,18202,Vegpro In House Clinic,Nairobi,Medical Clinic,Company Medical Service,Embakasi,Embakasi,EMBAKASI EAST,Y,Y,Operational
+10244,13247,Victory Hospital,Nairobi,Other Hospital,Private Enterprise (Institution),Umoja,Umoja,EMBAKASI WEST,N,N,Operational
+10246,19491,Victory Medicare,Nairobi,Medical Clinic,Private Practice - Medical Specialist,Kangemi,,WESTLANDS,N,Y,Operational
+10262,18741,Vipawa Medical Services,Nairobi,Medical Clinic,Private Practice - Clinical Officer,Kibera,Makina,KIBRA,Y,Y,Operational
+10264,19485,VIPS Health Servises,Nairobi,Dispensary,Private Enterprise (Institution),Woodley,Golf Course,KIBRA,N,Y,Operational
+10287,13249,Waithaka Health Centre,Nairobi,Health Centre,Local Authority,Waithaka,Waithaka,DAGORETTI SOUTH,Y,Y,Operational
+10300,13250,Wakibe Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Huruma,,STAREHE,N,N,Operational
+10316,13251,Wamunga Health Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Dandora,Dandora,KASARANI,N,Y,Operational
+10343,13252,Wangu Medical Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Ruai,Ruai,KASARANI,N,N,Operational
+10353,13253,Warazo Clinic,Nairobi,Medical Clinic,Private Enterprise (Institution),Githurai,,RUARAKA,N,N,Operational
+10383,19284,Wayside Medical & Dental Clinic,Nairobi,Medical Clinic,Private Practice - General Practitioner,Roysambu,Roysambu,ROYSAMBU,N,Y,Operational
+10396,18860,Wellness Program KWS Hq,Nairobi,Medical Clinic,Parastatal,Mugumoini,Mugumoini,LANG'ATA,N,N,Operational
+10401,13255,Wema CFW Clinic,Nairobi,Medical Clinic,Non-Governmental Organizations,Mugumoini,Mugumoini,LANG'ATA,N,Y,Operational
+10403,17394,Wema Medical Clinic,Nairobi,Maternity Home,Private Practice - Nurse / Midwife,Sarang'ombe,Gatwekera,KIBRA,Y,Y,Operational
+10404,19036,Wema Medical Clinic B,Nairobi,Medical Clinic,Private Practice - Nurse / Midwife,Sarang'ombe,Kianda,KIBRA,N,Y,Operational
+10406,13256,Wema Nursing Home,Nairobi,Health Centre,Private Enterprise (Institution),Kawangware,,DAGORETTI NORTH,N,N,Operational
+10411,13257,Wentworth Hospital,Nairobi,Other Hospital,Private Enterprise (Institution),Embakasi,Pipeline,EMBAKASI EAST,N,N,Operational
+10422,19663,Westlands District Health Management Team,Nairobi,Medical Clinic,Ministry of Health,Parklands,,WESTLANDS,Y,N,Operational
+10424,13258,Westlands Health Centre,Nairobi,Health Centre,Local Authority,Parklands,Lower Parklands,WESTLANDS,Y,Y,Operational
+10425,19494,Westlands Medical Centre,Nairobi,Medical Clinic,Non-Governmental Organizations,,,WESTLANDS,Y,Y,Operational
+10433,19524,Wide Medical Services,Nairobi,Medical Clinic,Private Practice - General Practitioner,Central,Central,STAREHE,N,N,Operational
+10456,13259,Woodley Clinic,Nairobi,Dispensary,Local Authority,Woodley,Woodley,KIBRA,N,N,Operational
+10459,13260,Woodstreet Nursing Home,Nairobi,Nursing Home,Private Enterprise (Institution),Eastleigh Section I,,KAMUKUNJI,N,N,Operational
+10493,19273,Zimerbreeze Medical Centre,Nairobi,Medical Clinic,Private Practice - General Practitioner,Gthurai ,Zimerman,ROYSAMBU,N,Y,Operational
+10494,19378,Zimma Health Care,Nairobi,Medical Clinic,Private Practice - General Practitioner,Githurai,zimmerman,ROYSAMBU,N,Y,Operational
+10495,13261,Zimmerman Medical Dispensary,Nairobi,Dispensary,Private Enterprise (Institution),Githurai,,ROYSAMBU,N,N,Operational
+10496,13262,Zinduka Clinic,Nairobi,VCT Centre (Stand-Alone),Other Faith Based,Nairobi West,,LANG'ATA,N,N,Operational
